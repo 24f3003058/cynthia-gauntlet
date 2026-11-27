@@ -1,0 +1,7 @@
+validator: (True, [])
+public     win   0.0%  95%CI [ 0.0, 0.4]  avg win turns   0.0  turn-limit 0     9.1 battles/s
+offensive  win   0.0%  95%CI [ 0.0, 0.4]  avg win turns   0.0  turn-limit 0    16.2 battles/s
+defensive  win   0.2%  95%CI [ 0.1, 0.7]  avg win turns  18.5  turn-limit 0     7.9 battles/s
+status     win   0.0%  95%CI [ 0.0, 0.4]  avg win turns   0.0  turn-limit 0    16.1 battles/s
+speed      win   0.0%  95%CI [ 0.0, 0.4]  avg win turns   0.0  turn-limit 0    17.2 battles/s
+policy     win   0.0%  95%CI [ 0.0, 0.4]  avg win turns   0.0  turn-limit 0     8.6 battles/s

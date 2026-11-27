@@ -1,0 +1,23 @@
+ran final (160000 battles, 1102s)
+
+seeds 900000000..900009999, 10000 battles/opponent, identical for every entry
+opponent                       final
+policy            40.9 [39.9,41.8]
+public            92.4 [91.8,92.9]
+si_aggressive     92.9 [92.4,93.4]
+si_patient        92.4 [91.8,92.9]
+si_altmoves       93.6 [93.1,94.1]
+si_altteam_a      70.0 [69.1,70.9]
+si_altteam_b      79.9 [79.1,80.7]
+si_giratina       51.2 [50.2,52.2]
+offensive         92.5 [92.0,93.0]
+defensive         90.2 [89.6,90.8]
+wr_water          65.5 [64.6,66.4]
+wr_dragons        99.2 [99.1,99.4]
+wr_special        48.1 [47.1,49.1]
+wr_steel          52.5 [51.5,53.4]
+wr_toxic          88.5 [87.9,89.1]
+wr_legends        24.2 [23.3,25.0]
+MEAN ALL         73.38 [73.2,73.6]
+final: fallbacks 0, turn-limit losses 0, mean avg-win-turns 16.91, max policy ms 916
+(* = difference > 0 at 95%, - = < 0 at 95%)

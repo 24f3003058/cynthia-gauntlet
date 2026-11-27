@@ -1,0 +1,97 @@
+{
+ "team": "submission/team.json",
+ "policy": "submission/policy.py",
+ "n": 200,
+ "seeds": "tune",
+ "fingerprint": "a7e3c6ea59",
+ "summary": {
+  "per_opponent": {
+   "wd_water": {
+    "n": 200,
+    "wins": 27,
+    "win_rate": 0.135,
+    "ci95": [
+     0.09446507976920289,
+     0.18929250455117141
+    ],
+    "avg_win_turns": 18.037037037037038,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 42.93090000282973
+   },
+   "wd_dragons": {
+    "n": 200,
+    "wins": 160,
+    "win_rate": 0.8,
+    "ci95": [
+     0.7391436038882958,
+     0.8495487925607118
+    ],
+    "avg_win_turns": 9.41875,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 52.89130000164732
+   },
+   "wd_special": {
+    "n": 200,
+    "wins": 43,
+    "win_rate": 0.215,
+    "ci95": [
+     0.16371792563672208,
+     0.2770242977367209
+    ],
+    "avg_win_turns": 15.69767441860465,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 62.481700006173924
+   },
+   "wd_steel": {
+    "n": 200,
+    "wins": 53,
+    "win_rate": 0.265,
+    "ci95": [
+     0.20868060011609973,
+     0.33017702266551113
+    ],
+    "avg_win_turns": 16.07547169811321,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 116.61820000153966
+   },
+   "wd_legends": {
+    "n": 200,
+    "wins": 93,
+    "win_rate": 0.465,
+    "ci95": [
+     0.39718443070423204,
+     0.5341347897100506
+    ],
+    "avg_win_turns": 17.634408602150536,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 102.59779999614693
+   },
+   "wd_toxic": {
+    "n": 200,
+    "wins": 131,
+    "win_rate": 0.655,
+    "ci95": [
+     0.5867546071792236,
+     0.7174031309860971
+    ],
+    "avg_win_turns": 15.0,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 67.26170002366416
+   }
+  },
+  "mean_win_rate": 0.42250000000000004,
+  "mean_ci95": [
+   0.3981083116387752,
+   0.4468916883612249
+  ],
+  "worst": "wd_water",
+  "avg_win_turns": 14.055226824457593,
+  "total_fallbacks": 0
+ }
+}

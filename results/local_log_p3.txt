@@ -1,0 +1,33 @@
+it  0 n=60  55.05 vs  55.37  moves weavile  | n=200  54.18 vs  53.83 ACCEPT
+it  1 n=60   9.38 vs  55.05  swap weavile->jigglypuff
+it  2 n=60  41.76 vs  55.05  lead ralts
+it  3 n=60  28.73 vs  55.05  swap weavile->kangaskhan
+it  4 n=60  42.18 vs  55.05  swap gengar->umbreon
+it  5 n=60  32.27 vs  55.05  swap weavile->jolteon
+it  6 n=60  55.37 vs  55.05  moves weavile  | n=200  53.79 vs  54.18 
+it  7 n=60  34.86 vs  55.05  swap starmie->steelix
+it  8 n=60  54.26 vs  55.05  moves ralts  | n=200  53.17 vs  54.18 
+it  9 n=60  41.76 vs  55.05  lead ralts
+it 10 n=60  54.49 vs  55.05  moves gyarados  | n=200  53.58 vs  54.18 
+it 11 n=60  54.49 vs  55.05  moves gyarados  | n=200  53.58 vs  54.18 
+it 12 n=60  41.76 vs  55.05  lead ralts
+it 13 n=60  17.75 vs  55.05  swap weavile->omastar
+it 14 n=60  40.79 vs  55.05  swap gengar->lumineon
+it 15 n=60  52.38 vs  55.05  swap gyarados->ambipom
+it 16 n=60  37.64 vs  55.05  swap gyarados->forretress
+it 17 n=60  52.85 vs  55.05  moves gengar
+it 18 n=60  13.43 vs  55.05  swap weavile->vileplume
+it 19 n=60  45.42 vs  55.05  lead gyarados
+it 20 n=60  53.38 vs  55.05  swap ralts->feebas
+it 21 n=60  19.63 vs  55.05  swap starmie->bidoof
+it 22 n=60  54.49 vs  55.05  moves gyarados  | n=200  53.58 vs  54.18 
+it 23 n=60  46.06 vs  55.05  swap gyarados->jynx
+it 24 n=60  54.49 vs  55.05  moves gyarados  | n=200  53.76 vs  54.18 
+it 25 n=60  39.14 vs  55.05  swap starmie->lanturn
+it 26 n=60  53.59 vs  55.05  lead starmie
+it 27 n=60  40.79 vs  55.05  swap gengar->lumineon
+it 28 n=60  25.14 vs  55.05  swap starmie->victreebel
+it 29 n=60  57.96 vs  55.05  moves starmie  | n=200  56.65 vs  54.18 ACCEPT
+it 30 n=60  36.57 vs  57.96  swap weavile->ambipom
+it 31 n=60  34.19 vs  57.96  swap gengar->spiritomb
+it 32 n=60  24.00 vs  57.96  swap gengar->spearow

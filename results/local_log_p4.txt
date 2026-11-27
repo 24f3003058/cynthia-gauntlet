@@ -1,0 +1,37 @@
+it  0 n=60  58.89 vs  61.00  swap ralts->sunkern
+it  1 n=60  59.12 vs  61.00  swap ralts->pichu
+it  2 n=60  41.44 vs  61.00  swap starmie->huntail
+it  3 n=60  56.11 vs  61.00  lead gengar
+it  4 n=60  51.90 vs  61.00  lead swinub
+it  5 n=60  48.61 vs  61.00  swap gyarados->shiftry
+it  6 n=60  56.11 vs  61.00  lead gengar
+it  7 n=60  56.11 vs  61.00  lead gengar
+it  8 n=60  44.47 vs  61.00  swap starmie->abomasnow
+it  9 n=60  25.35 vs  61.00  swap weavile->slowbro
+it 10 n=60  44.61 vs  61.00  swap gyarados->politoed
+it 11 n=60  57.52 vs  61.00  lead starmie
+it 12 n=60  62.99 vs  61.00  moves starmie  | n=200  62.26 vs  59.87 ACCEPT
+it 13 n=60  30.90 vs  62.99  swap gengar->ledyba
+it 14 n=60  58.08 vs  62.99  swap swinub->makuhita
+it 15 n=60  30.93 vs  62.99  swap starmie->bastiodon
+it 16 n=60  63.47 vs  62.99  moves gyarados  | n=200  62.82 vs  62.26 ACCEPT
+it 17 n=60  51.90 vs  63.47  lead swinub
+it 19 n=60  59.88 vs  63.47  moves gengar
+it 20 n=60  58.15 vs  63.47  swap swinub->pichu
+it 21 n=60  63.06 vs  63.47  swap ralts->sunkern  | n=200  61.98 vs  62.82 
+it 22 n=60  53.82 vs  63.47  lead gyarados
+it 23 n=60  36.83 vs  63.47  swap gyarados->armaldo
+it 25 n=60  47.66 vs  63.47  swap starmie->clefable
+it 26 n=60  65.35 vs  63.47  moves weavile  | n=200  64.81 vs  62.82 ACCEPT
+it 27 n=60  23.52 vs  65.35  swap weavile->swalot
+it 28 n=60  52.06 vs  65.35  swap gengar->mismagius
+it 29 n=60  11.74 vs  65.35  swap weavile->lotad
+it 30 n=60  57.27 vs  65.35  lead gengar
+it 31 n=60  43.33 vs  65.35  swap starmie->machamp
+it 32 n=60  37.48 vs  65.35  swap gyarados->kabutops
+it 33 n=60  62.11 vs  65.35  swap swinub->togepi
+it 34 n=60  16.41 vs  65.35  swap weavile->seviper
+it 35 n=60  37.85 vs  65.35  swap gengar->kabutops
+it 36 n=60  57.11 vs  65.35  lead starmie
+it 37 n=60  65.46 vs  65.35  moves swinub  | n=200  64.09 vs  64.81 
+it 38 n=60  47.11 vs  65.35  swap gengar->umbreon

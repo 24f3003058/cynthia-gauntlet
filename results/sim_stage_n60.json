@@ -1,0 +1,2132 @@
+[
+ {
+  "mean": 0.6185185185185185,
+  "wt": 14.991017964071856,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "skuntank",
+    "moves": [
+     "feint",
+     "night-slash",
+     "fire-blast",
+     "poison-jab"
+    ]
+   },
+   {
+    "species": "snover",
+    "moves": [
+     "wood-hammer",
+     "ice-beam",
+     "ice-punch",
+     "sheer-cold"
+    ]
+   },
+   {
+    "species": "surskit",
+    "moves": [
+     "quick-attack",
+     "ice-beam",
+     "hydro-pump",
+     "giga-drain"
+    ]
+   },
+   {
+    "species": "cleffa",
+    "moves": [
+     "fire-blast",
+     "magical-leaf",
+     "psychic",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.8333333333333334,
+   "si_aggressive": 0.9,
+   "si_patient": 0.8333333333333334,
+   "si_altmoves": 0.75,
+   "si_altteam_a": 0.08333333333333333,
+   "si_altteam_b": 0.1,
+   "si_giratina": 0.35,
+   "offensive": 0.9,
+   "defensive": 0.8166666666666667
+  }
+ },
+ {
+  "mean": 0.6185185185185185,
+  "wt": 16.736526946107784,
+  "team": [
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "alakazam",
+    "moves": [
+     "psychic",
+     "energy-ball",
+     "focus-blast",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "starly",
+    "moves": [
+     "brave-bird",
+     "heat-wave",
+     "u-turn",
+     "tackle"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.7166666666666667,
+   "si_aggressive": 0.8,
+   "si_patient": 0.8,
+   "si_altmoves": 0.6333333333333333,
+   "si_altteam_a": 0.25,
+   "si_altteam_b": 0.5,
+   "si_giratina": 0.26666666666666666,
+   "offensive": 0.8333333333333334,
+   "defensive": 0.7666666666666667
+  }
+ },
+ {
+  "mean": 0.6074074074074074,
+  "wt": 13.911585365853659,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "gyarados",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "waterfall",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "quick-attack",
+     "ice-punch",
+     "brick-break",
+     "night-slash"
+    ]
+   },
+   {
+    "species": "mankey",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "seed-bomb",
+     "cross-chop"
+    ]
+   },
+   {
+    "species": "starly",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "heat-wave",
+     "u-turn"
+    ]
+   },
+   {
+    "species": "slugma",
+    "moves": [
+     "fire-blast",
+     "earth-power",
+     "ancient-power",
+     "flamethrower"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.7333333333333333,
+   "si_aggressive": 0.65,
+   "si_patient": 0.8166666666666667,
+   "si_altmoves": 0.7666666666666667,
+   "si_altteam_a": 0.43333333333333335,
+   "si_altteam_b": 0.2,
+   "si_giratina": 0.6666666666666666,
+   "offensive": 0.6,
+   "defensive": 0.6
+  }
+ },
+ {
+  "mean": 0.6055555555555556,
+  "wt": 15.862385321100918,
+  "team": [
+   {
+    "species": "weavile",
+    "moves": [
+     "quick-attack",
+     "ice-punch",
+     "brick-break",
+     "night-slash"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "aerial-ace",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "donphan",
+    "moves": [
+     "earthquake",
+     "seed-bomb",
+     "stone-edge",
+     "gunk-shot"
+    ]
+   },
+   {
+    "species": "slugma",
+    "moves": [
+     "fire-blast",
+     "earth-power",
+     "ancient-power",
+     "flamethrower"
+    ]
+   },
+   {
+    "species": "feebas",
+    "moves": [
+     "ice-beam",
+     "waterfall",
+     "secret-power",
+     "surf"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.85,
+   "si_aggressive": 0.7166666666666667,
+   "si_patient": 0.8666666666666667,
+   "si_altmoves": 0.7833333333333333,
+   "si_altteam_a": 0.31666666666666665,
+   "si_altteam_b": 0.11666666666666667,
+   "si_giratina": 0.3,
+   "offensive": 0.75,
+   "defensive": 0.75
+  }
+ },
+ {
+  "mean": 0.5537037037037037,
+  "wt": 13.588628762541806,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "aerial-ace",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "grovyle",
+    "moves": [
+     "quick-attack",
+     "leaf-blade",
+     "aerial-ace",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "monferno",
+    "moves": [
+     "mach-punch",
+     "flare-blitz",
+     "brick-break",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "natu",
+    "moves": [
+     "quick-attack",
+     "night-shade",
+     "psychic",
+     "giga-drain"
+    ]
+   },
+   {
+    "species": "marill",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "double-edge",
+     "ice-punch"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.5833333333333334,
+   "si_aggressive": 0.7166666666666667,
+   "si_patient": 0.55,
+   "si_altmoves": 0.7,
+   "si_altteam_a": 0.6166666666666667,
+   "si_altteam_b": 0.13333333333333333,
+   "si_giratina": 0.31666666666666665,
+   "offensive": 0.7166666666666667,
+   "defensive": 0.65
+  }
+ },
+ {
+  "mean": 0.55,
+  "wt": 13.875420875420875,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "vulpix",
+    "moves": [
+     "flare-blitz",
+     "energy-ball",
+     "extrasensory",
+     "fire-blast"
+    ]
+   },
+   {
+    "species": "togepi",
+    "moves": [
+     "fire-blast",
+     "double-edge",
+     "psychic",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "sentret",
+    "moves": [
+     "quick-attack",
+     "double-edge",
+     "ice-beam",
+     "brick-break"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.7,
+   "si_aggressive": 0.8,
+   "si_patient": 0.8166666666666667,
+   "si_altmoves": 0.5666666666666667,
+   "si_altteam_a": 0.16666666666666666,
+   "si_altteam_b": 0.25,
+   "si_giratina": 0.21666666666666667,
+   "offensive": 0.75,
+   "defensive": 0.6833333333333333
+  }
+ },
+ {
+  "mean": 0.5259259259259259,
+  "wt": 15.20774647887324,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "thunderbolt",
+     "psychic"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "finneon",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "u-turn",
+     "aqua-tail"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "feint",
+     "earthquake",
+     "ice-punch",
+     "cross-chop"
+    ]
+   },
+   {
+    "species": "seedot",
+    "moves": [
+     "seed-bomb",
+     "take-down",
+     "rock-smash",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.75,
+   "si_aggressive": 0.5,
+   "si_patient": 0.5666666666666667,
+   "si_altmoves": 0.5666666666666667,
+   "si_altteam_a": 0.48333333333333334,
+   "si_altteam_b": 0.08333333333333333,
+   "si_giratina": 0.45,
+   "offensive": 0.5166666666666667,
+   "defensive": 0.8166666666666667
+  }
+ },
+ {
+  "mean": 0.5092592592592592,
+  "wt": 13.978181818181818,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "ledyba",
+    "moves": [
+     "bug-buzz",
+     "air-cutter",
+     "giga-drain",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "togepi",
+    "moves": [
+     "fire-blast",
+     "double-edge",
+     "psychic",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "combee",
+    "moves": [
+     "air-cutter",
+     "bug-bite",
+     "ominous-wind",
+     "gust"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.6166666666666667,
+   "si_aggressive": 0.75,
+   "si_patient": 0.8,
+   "si_altmoves": 0.5166666666666667,
+   "si_altteam_a": 0.11666666666666667,
+   "si_altteam_b": 0.23333333333333334,
+   "si_giratina": 0.26666666666666666,
+   "offensive": 0.6166666666666667,
+   "defensive": 0.6666666666666666
+  }
+ },
+ {
+  "mean": 0.5074074074074074,
+  "wt": 13.744525547445255,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "machop",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "bidoof",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "aqua-tail",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "happiny",
+    "moves": [
+     "fire-blast",
+     "psychic",
+     "shock-wave",
+     "drain-punch"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.65,
+   "si_aggressive": 0.75,
+   "si_patient": 0.7666666666666667,
+   "si_altmoves": 0.5333333333333333,
+   "si_altteam_a": 0.13333333333333333,
+   "si_altteam_b": 0.26666666666666666,
+   "si_giratina": 0.18333333333333332,
+   "offensive": 0.6833333333333333,
+   "defensive": 0.6
+  }
+ },
+ {
+  "mean": 0.5074074074074074,
+  "wt": 18.791970802919707,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "quick-attack",
+     "ice-beam",
+     "surf",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "marill",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "double-edge",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "magical-leaf",
+     "ice-punch"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.7,
+   "si_aggressive": 0.65,
+   "si_patient": 0.5666666666666667,
+   "si_altmoves": 0.48333333333333334,
+   "si_altteam_a": 0.2833333333333333,
+   "si_altteam_b": 0.4666666666666667,
+   "si_giratina": 0.08333333333333333,
+   "offensive": 0.6166666666666667,
+   "defensive": 0.7166666666666667
+  }
+ },
+ {
+  "mean": 0.49074074074074076,
+  "wt": 13.584905660377359,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "swampert",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "stone-edge",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "lopunny",
+    "moves": [
+     "ice-punch",
+     "thunder-punch",
+     "fire-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "shellos",
+    "moves": [
+     "fissure",
+     "ice-beam",
+     "earth-power",
+     "surf"
+    ]
+   },
+   {
+    "species": "hoppip",
+    "moves": [
+     "seed-bomb",
+     "aerial-ace",
+     "energy-ball",
+     "double-edge"
+    ]
+   },
+   {
+    "species": "igglybuff",
+    "moves": [
+     "fire-blast",
+     "headbutt",
+     "psychic",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.65,
+   "si_aggressive": 0.7333333333333333,
+   "si_patient": 0.6666666666666666,
+   "si_altmoves": 0.65,
+   "si_altteam_a": 0.13333333333333333,
+   "si_altteam_b": 0.13333333333333333,
+   "si_giratina": 0.2,
+   "offensive": 0.6666666666666666,
+   "defensive": 0.5833333333333334
+  }
+ },
+ {
+  "mean": 0.46851851851851856,
+  "wt": 13.600790513833992,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "torterra",
+    "moves": [
+     "earthquake",
+     "wood-hammer",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "krabby",
+    "moves": [
+     "crabhammer",
+     "x-scissor",
+     "brick-break",
+     "ice-beam"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "feint",
+     "earthquake",
+     "ice-punch",
+     "cross-chop"
+    ]
+   },
+   {
+    "species": "seedot",
+    "moves": [
+     "seed-bomb",
+     "take-down",
+     "rock-smash",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.5833333333333334,
+   "si_aggressive": 0.65,
+   "si_patient": 0.6,
+   "si_altmoves": 0.5,
+   "si_altteam_a": 0.16666666666666666,
+   "si_altteam_b": 0.016666666666666666,
+   "si_giratina": 0.36666666666666664,
+   "offensive": 0.6,
+   "defensive": 0.7333333333333333
+  }
+ },
+ {
+  "mean": 0.462962962962963,
+  "wt": 14.048,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "wooper",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "iron-tail",
+     "headbutt"
+    ]
+   },
+   {
+    "species": "seedot",
+    "moves": [
+     "seed-bomb",
+     "take-down",
+     "rock-smash",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.5833333333333334,
+   "si_aggressive": 0.6833333333333333,
+   "si_patient": 0.7166666666666667,
+   "si_altmoves": 0.43333333333333335,
+   "si_altteam_a": 0.26666666666666666,
+   "si_altteam_b": 0.2833333333333333,
+   "si_giratina": 0.2,
+   "offensive": 0.36666666666666664,
+   "defensive": 0.6333333333333333
+  }
+ },
+ {
+  "mean": 0.45185185185185184,
+  "wt": 12.860655737704919,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "porygon-z",
+    "moves": [
+     "ice-beam",
+     "thunderbolt",
+     "tri-attack",
+     "psychic"
+    ]
+   },
+   {
+    "species": "flareon",
+    "moves": [
+     "quick-attack",
+     "flamethrower",
+     "strength",
+     "fire-fang"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "starly",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "heat-wave",
+     "u-turn"
+    ]
+   },
+   {
+    "species": "shinx",
+    "moves": [
+     "ice-fang",
+     "spark",
+     "fire-fang",
+     "crunch"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.6666666666666666,
+   "si_aggressive": 0.6333333333333333,
+   "si_patient": 0.65,
+   "si_altmoves": 0.5833333333333334,
+   "si_altteam_a": 0.03333333333333333,
+   "si_altteam_b": 0.03333333333333333,
+   "si_giratina": 0.15,
+   "offensive": 0.7,
+   "defensive": 0.6166666666666667
+  }
+ },
+ {
+  "mean": 0.4462962962962963,
+  "wt": 16.12448132780083,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "garchomp",
+    "moves": [
+     "earthquake",
+     "dragon-claw",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "snover",
+    "moves": [
+     "ice-shard",
+     "wood-hammer",
+     "ice-beam",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "bidoof",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "aqua-tail",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "sentret",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "brick-break",
+     "flamethrower"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.5333333333333333,
+   "si_aggressive": 0.48333333333333334,
+   "si_patient": 0.7166666666666667,
+   "si_altmoves": 0.5166666666666667,
+   "si_altteam_a": 0.15,
+   "si_altteam_b": 0.06666666666666667,
+   "si_giratina": 0.3,
+   "offensive": 0.5333333333333333,
+   "defensive": 0.7166666666666667
+  }
+ },
+ {
+  "mean": 0.4425925925925926,
+  "wt": 15.97489539748954,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "gallade",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "leaf-blade",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "froslass",
+    "moves": [
+     "ice-beam",
+     "thunderbolt",
+     "ice-punch",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "swinub",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "fissure",
+     "ice-shard"
+    ]
+   },
+   {
+    "species": "shedinja",
+    "moves": [
+     "shadow-sneak",
+     "x-scissor",
+     "shadow-claw",
+     "aerial-ace"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.6166666666666667,
+   "si_aggressive": 0.5166666666666667,
+   "si_patient": 0.7166666666666667,
+   "si_altmoves": 0.48333333333333334,
+   "si_altteam_a": 0.23333333333333334,
+   "si_altteam_b": 0.13333333333333333,
+   "si_giratina": 0.21666666666666667,
+   "offensive": 0.5166666666666667,
+   "defensive": 0.55
+  }
+ },
+ {
+  "mean": 0.4388888888888889,
+  "wt": 18.27848101265823,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "scizor",
+    "moves": [
+     "x-scissor",
+     "brick-break",
+     "iron-head",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "magical-leaf",
+     "ice-punch"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.65,
+   "si_aggressive": 0.48333333333333334,
+   "si_patient": 0.6833333333333333,
+   "si_altmoves": 0.36666666666666664,
+   "si_altteam_a": 0.45,
+   "si_altteam_b": 0.11666666666666667,
+   "si_giratina": 0.21666666666666667,
+   "offensive": 0.5,
+   "defensive": 0.48333333333333334
+  }
+ },
+ {
+  "mean": 0.3962962962962963,
+  "wt": 18.2196261682243,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "shadow-ball",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "aerial-ace",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "bidoof",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "aqua-tail",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.6166666666666667,
+   "si_aggressive": 0.36666666666666664,
+   "si_patient": 0.5,
+   "si_altmoves": 0.38333333333333336,
+   "si_altteam_a": 0.26666666666666666,
+   "si_altteam_b": 0.45,
+   "si_giratina": 0.08333333333333333,
+   "offensive": 0.4166666666666667,
+   "defensive": 0.48333333333333334
+  }
+ },
+ {
+  "mean": 0.37777777777777777,
+  "wt": 15.965686274509803,
+  "team": [
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "torterra",
+    "moves": [
+     "earthquake",
+     "wood-hammer",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "gallade",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "leaf-blade",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "froslass",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "thunderbolt",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "togepi",
+    "moves": [
+     "fire-blast",
+     "double-edge",
+     "psychic",
+     "signal-beam"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.6166666666666667,
+   "si_aggressive": 0.6333333333333333,
+   "si_patient": 0.25,
+   "si_altmoves": 0.5333333333333333,
+   "si_altteam_a": 0.5,
+   "si_altteam_b": 0.016666666666666666,
+   "si_giratina": 0.0,
+   "offensive": 0.5666666666666667,
+   "defensive": 0.2833333333333333
+  }
+ },
+ {
+  "mean": 0.37407407407407406,
+  "wt": 16.693069306930692,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "gallade",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "leaf-blade",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "hippowdon",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "froslass",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "thunderbolt",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "lotad",
+    "moves": [
+     "energy-ball",
+     "ice-beam",
+     "surf",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "shedinja",
+    "moves": [
+     "shadow-sneak",
+     "x-scissor",
+     "shadow-claw",
+     "aerial-ace"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.5,
+   "si_aggressive": 0.2833333333333333,
+   "si_patient": 0.6666666666666666,
+   "si_altmoves": 0.2833333333333333,
+   "si_altteam_a": 0.2,
+   "si_altteam_b": 0.35,
+   "si_giratina": 0.03333333333333333,
+   "offensive": 0.4666666666666667,
+   "defensive": 0.5833333333333334
+  }
+ },
+ {
+  "mean": 0.3611111111111111,
+  "wt": 18.276923076923076,
+  "team": [
+   {
+    "species": "gyarados",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "waterfall",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "kangaskhan",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "shadow-ball",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "brick-break",
+     "night-slash",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "tyrogue",
+    "moves": [
+     "earthquake",
+     "brick-break",
+     "rock-slide",
+     "tackle"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.4166666666666667,
+   "si_aggressive": 0.48333333333333334,
+   "si_patient": 0.5,
+   "si_altmoves": 0.4166666666666667,
+   "si_altteam_a": 0.25,
+   "si_altteam_b": 0.15,
+   "si_giratina": 0.05,
+   "offensive": 0.5166666666666667,
+   "defensive": 0.4666666666666667
+  }
+ },
+ {
+  "mean": 0.35185185185185186,
+  "wt": 15.526315789473685,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "gallade",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "leaf-blade",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "froslass",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "thunderbolt",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "squirtle",
+    "moves": [
+     "ice-beam",
+     "hydro-pump",
+     "zen-headbutt",
+     "strength"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "magical-leaf",
+     "ice-punch"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.5,
+   "si_aggressive": 0.5,
+   "si_patient": 0.6833333333333333,
+   "si_altmoves": 0.25,
+   "si_altteam_a": 0.25,
+   "si_altteam_b": 0.1,
+   "si_giratina": 0.08333333333333333,
+   "offensive": 0.4,
+   "defensive": 0.4
+  }
+ },
+ {
+  "mean": 0.34814814814814815,
+  "wt": 16.632978723404257,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "garchomp",
+    "moves": [
+     "earthquake",
+     "dragon-claw",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "seel",
+    "moves": [
+     "horn-drill",
+     "ice-beam",
+     "surf",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "bulbasaur",
+    "moves": [
+     "power-whip",
+     "double-edge",
+     "energy-ball",
+     "sludge-bomb"
+    ]
+   },
+   {
+    "species": "starly",
+    "moves": [
+     "brave-bird",
+     "heat-wave",
+     "u-turn",
+     "tackle"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.3333333333333333,
+   "si_aggressive": 0.43333333333333335,
+   "si_patient": 0.5833333333333334,
+   "si_altmoves": 0.36666666666666664,
+   "si_altteam_a": 0.15,
+   "si_altteam_b": 0.1,
+   "si_giratina": 0.23333333333333334,
+   "offensive": 0.35,
+   "defensive": 0.5833333333333334
+  }
+ },
+ {
+  "mean": 0.337037037037037,
+  "wt": 16.071428571428573,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "garchomp",
+    "moves": [
+     "earthquake",
+     "dragon-claw",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "bellsprout",
+    "moves": [
+     "seed-bomb",
+     "sludge-bomb",
+     "energy-ball",
+     "acid"
+    ]
+   },
+   {
+    "species": "spearow",
+    "moves": [
+     "quick-attack",
+     "drill-peck",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "feebas",
+    "moves": [
+     "ice-beam",
+     "waterfall",
+     "secret-power",
+     "surf"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.4,
+   "si_aggressive": 0.38333333333333336,
+   "si_patient": 0.5,
+   "si_altmoves": 0.2833333333333333,
+   "si_altteam_a": 0.06666666666666667,
+   "si_altteam_b": 0.1,
+   "si_giratina": 0.25,
+   "offensive": 0.38333333333333336,
+   "defensive": 0.6666666666666666
+  }
+ },
+ {
+  "mean": 0.3333333333333333,
+  "wt": 13.027777777777779,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "hippowdon",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "spinarak",
+    "moves": [
+     "night-shade",
+     "giga-drain",
+     "poison-jab",
+     "bug-bite"
+    ]
+   },
+   {
+    "species": "shedinja",
+    "moves": [
+     "shadow-sneak",
+     "x-scissor",
+     "shadow-claw",
+     "aerial-ace"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.48333333333333334,
+   "si_aggressive": 0.4666666666666667,
+   "si_patient": 0.5,
+   "si_altmoves": 0.4,
+   "si_altteam_a": 0.03333333333333333,
+   "si_altteam_b": 0.16666666666666666,
+   "si_giratina": 0.1,
+   "offensive": 0.48333333333333334,
+   "defensive": 0.36666666666666664
+  }
+ },
+ {
+  "mean": 0.3259259259259259,
+  "wt": 17.28409090909091,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "milotic",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "dragon-pulse",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "murkrow",
+    "moves": [
+     "brave-bird",
+     "dark-pulse",
+     "heat-wave",
+     "night-shade"
+    ]
+   },
+   {
+    "species": "bellsprout",
+    "moves": [
+     "seed-bomb",
+     "sludge-bomb",
+     "energy-ball",
+     "acid"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.4,
+   "si_aggressive": 0.31666666666666665,
+   "si_patient": 0.65,
+   "si_altmoves": 0.26666666666666666,
+   "si_altteam_a": 0.25,
+   "si_altteam_b": 0.1,
+   "si_giratina": 0.08333333333333333,
+   "offensive": 0.3,
+   "defensive": 0.5666666666666667
+  }
+ },
+ {
+  "mean": 0.3222222222222222,
+  "wt": 15.74712643678161,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "heracross",
+    "moves": [
+     "feint",
+     "megahorn",
+     "earthquake",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "jigglypuff",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "fire-blast",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "feebas",
+    "moves": [
+     "ice-beam",
+     "waterfall",
+     "secret-power",
+     "surf"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.5,
+   "si_aggressive": 0.36666666666666664,
+   "si_patient": 0.4666666666666667,
+   "si_altmoves": 0.23333333333333334,
+   "si_altteam_a": 0.13333333333333333,
+   "si_altteam_b": 0.16666666666666666,
+   "si_giratina": 0.18333333333333332,
+   "offensive": 0.4166666666666667,
+   "defensive": 0.43333333333333335
+  }
+ },
+ {
+  "mean": 0.30925925925925923,
+  "wt": 18.538922155688624,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "donphan",
+    "moves": [
+     "earthquake",
+     "seed-bomb",
+     "stone-edge",
+     "gunk-shot"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   },
+   {
+    "species": "sunkern",
+    "moves": [
+     "seed-bomb",
+     "earth-power",
+     "secret-power",
+     "energy-ball"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.45,
+   "si_aggressive": 0.4666666666666667,
+   "si_patient": 0.48333333333333334,
+   "si_altmoves": 0.45,
+   "si_altteam_a": 0.03333333333333333,
+   "si_altteam_b": 0.05,
+   "si_giratina": 0.03333333333333333,
+   "offensive": 0.45,
+   "defensive": 0.36666666666666664
+  }
+ },
+ {
+  "mean": 0.21666666666666667,
+  "wt": 13.102564102564102,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "nidoking",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "fire-blast",
+     "megahorn"
+    ]
+   },
+   {
+    "species": "nidoran-m",
+    "moves": [
+     "horn-drill",
+     "ice-beam",
+     "head-smash",
+     "double-kick"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   },
+   {
+    "species": "wingull",
+    "moves": [
+     "quick-attack",
+     "ice-beam",
+     "air-slash",
+     "water-pulse"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.23333333333333334,
+   "si_aggressive": 0.23333333333333334,
+   "si_patient": 0.4666666666666667,
+   "si_altmoves": 0.2,
+   "si_altteam_a": 0.016666666666666666,
+   "si_altteam_b": 0.21666666666666667,
+   "si_giratina": 0.016666666666666666,
+   "offensive": 0.13333333333333333,
+   "defensive": 0.43333333333333335
+  }
+ },
+ {
+  "mean": 0.1685185185185185,
+  "wt": 16.208791208791208,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "magmortar",
+    "moves": [
+     "flamethrower",
+     "thunderbolt",
+     "psychic",
+     "focus-blast"
+    ]
+   },
+   {
+    "species": "snover",
+    "moves": [
+     "wood-hammer",
+     "ice-beam",
+     "ice-punch",
+     "sheer-cold"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "togepi",
+    "moves": [
+     "fire-blast",
+     "double-edge",
+     "psychic",
+     "signal-beam"
+    ]
+   }
+  ],
+  "per": {
+   "public": 0.21666666666666667,
+   "si_aggressive": 0.15,
+   "si_patient": 0.26666666666666666,
+   "si_altmoves": 0.2,
+   "si_altteam_a": 0.2,
+   "si_altteam_b": 0.06666666666666667,
+   "si_giratina": 0.05,
+   "offensive": 0.08333333333333333,
+   "defensive": 0.2833333333333333
+  }
+ }
+]

@@ -1,0 +1,85 @@
+{
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "patient",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 2.0,
+ "switch_cooldown": 2,
+ "danger_threshold": 0.5,
+ "weak_offense_threshold": 0.4,
+ "aggression": 1.0,
+ "status_weight": 1.0,
+ "priority_weight": 1.0,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "garchomp",
+ "stall_penalty": 0.5,
+ "variant": "si_altteam_a",
+ "team": [
+  {
+   "species": "togekiss",
+   "moves": [
+    "air-slash",
+    "aura-sphere",
+    "flamethrower",
+    "shadow-ball"
+   ]
+  },
+  {
+   "species": "spiritomb",
+   "moves": [
+    "dark-pulse",
+    "shadow-ball",
+    "silver-wind",
+    "psychic"
+   ]
+  },
+  {
+   "species": "glaceon",
+   "moves": [
+    "ice-beam",
+    "shadow-ball",
+    "water-pulse",
+    "signal-beam"
+   ]
+  },
+  {
+   "species": "lucario",
+   "moves": [
+    "aura-sphere",
+    "dragon-pulse",
+    "flash-cannon",
+    "extreme-speed"
+   ]
+  },
+  {
+   "species": "milotic",
+   "moves": [
+    "hydro-pump",
+    "surf",
+    "ice-beam",
+    "dragon-pulse"
+   ]
+  },
+  {
+   "species": "garchomp",
+   "moves": [
+    "earthquake",
+    "dragon-claw",
+    "stone-edge",
+    "brick-break"
+   ]
+  }
+ ],
+ "_assumption": "different team (Togekiss/Glaceon in), switch-happy"
+}

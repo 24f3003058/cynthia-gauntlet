@@ -1,0 +1,602 @@
+{
+ "wd_water": {
+  "team": [
+   {
+    "species": "kingdra",
+    "moves": [
+     "hydro-pump",
+     "dragon-pulse",
+     "signal-beam",
+     "ice-beam"
+    ]
+   },
+   {
+    "species": "empoleon",
+    "moves": [
+     "hydro-pump",
+     "flash-cannon",
+     "ice-beam",
+     "earthquake"
+    ]
+   },
+   {
+    "species": "swampert",
+    "moves": [
+     "earthquake",
+     "aqua-tail",
+     "stone-edge",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "hydro-pump",
+     "ice-beam",
+     "shadow-ball",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "surf",
+     "psychic",
+     "ice-beam",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "ludicolo",
+    "moves": [
+     "surf",
+     "energy-ball",
+     "focus-blast",
+     "ice-beam"
+    ]
+   }
+  ],
+  "style": "aggressive",
+  "split": "tune"
+ },
+ "wd_dragons": {
+  "team": [
+   {
+    "species": "salamence",
+    "moves": [
+     "dragon-claw",
+     "aerial-ace",
+     "earthquake",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "dragonite",
+    "moves": [
+     "dragon-claw",
+     "wing-attack",
+     "earthquake",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "flygon",
+    "moves": [
+     "earthquake",
+     "dragon-claw",
+     "fire-blast",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "rhyperior",
+    "moves": [
+     "earthquake",
+     "stone-edge",
+     "megahorn",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "tyranitar",
+    "moves": [
+     "stone-edge",
+     "crunch",
+     "earthquake",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "earthquake",
+     "aerial-ace",
+     "brick-break",
+     "night-slash"
+    ]
+   }
+  ],
+  "style": "patient",
+  "split": "tune"
+ },
+ "wd_special": {
+  "team": [
+   {
+    "species": "alakazam",
+    "moves": [
+     "psychic",
+     "focus-blast",
+     "shadow-ball",
+     "energy-ball"
+    ]
+   },
+   {
+    "species": "gengar",
+    "moves": [
+     "sludge-bomb",
+     "shadow-ball",
+     "focus-blast",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "porygon-z",
+    "moves": [
+     "tri-attack",
+     "ice-beam",
+     "psychic",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "magnezone",
+    "moves": [
+     "thunderbolt",
+     "flash-cannon",
+     "signal-beam",
+     "thunder"
+    ]
+   },
+   {
+    "species": "espeon",
+    "moves": [
+     "psychic",
+     "signal-beam",
+     "shadow-ball",
+     "psybeam"
+    ]
+   },
+   {
+    "species": "jolteon",
+    "moves": [
+     "thunderbolt",
+     "signal-beam",
+     "shadow-ball",
+     "thunder"
+    ]
+   }
+  ],
+  "style": "balanced",
+  "split": "tune"
+ },
+ "wd_steel": {
+  "team": [
+   {
+    "species": "metagross",
+    "moves": [
+     "meteor-mash",
+     "zen-headbutt",
+     "ice-punch",
+     "earthquake"
+    ]
+   },
+   {
+    "species": "scizor",
+    "moves": [
+     "x-scissor",
+     "iron-head",
+     "brick-break",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "lucario",
+    "moves": [
+     "aura-sphere",
+     "flash-cannon",
+     "ice-punch",
+     "earthquake"
+    ]
+   },
+   {
+    "species": "machamp",
+    "moves": [
+     "cross-chop",
+     "ice-punch",
+     "earthquake",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "heracross",
+    "moves": [
+     "megahorn",
+     "brick-break",
+     "earthquake",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "infernape",
+    "moves": [
+     "flare-blitz",
+     "focus-blast",
+     "earthquake",
+     "gunk-shot"
+    ]
+   }
+  ],
+  "style": "aggressive",
+  "split": "tune"
+ },
+ "wd_legends": {
+  "team": [
+   {
+    "species": "heatran",
+    "moves": [
+     "fire-blast",
+     "flash-cannon",
+     "earth-power",
+     "dark-pulse"
+    ]
+   },
+   {
+    "species": "latios",
+    "moves": [
+     "luster-purge",
+     "dragon-pulse",
+     "earthquake",
+     "ice-beam"
+    ]
+   },
+   {
+    "species": "cresselia",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "shadow-ball",
+     "energy-ball"
+    ]
+   },
+   {
+    "species": "azelf",
+    "moves": [
+     "psychic",
+     "fire-blast",
+     "energy-ball",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "uxie",
+    "moves": [
+     "psychic",
+     "ice-punch",
+     "fire-punch",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "raikou",
+    "moves": [
+     "thunderbolt",
+     "signal-beam",
+     "extrasensory",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "style": "patient",
+  "split": "tune"
+ },
+ "wd_toxic": {
+  "team": [
+   {
+    "species": "roserade",
+    "moves": [
+     "sludge-bomb",
+     "energy-ball",
+     "shadow-ball",
+     "magical-leaf"
+    ]
+   },
+   {
+    "species": "venusaur",
+    "moves": [
+     "sludge-bomb",
+     "energy-ball",
+     "earthquake",
+     "double-edge"
+    ]
+   },
+   {
+    "species": "yanmega",
+    "moves": [
+     "bug-buzz",
+     "air-slash",
+     "psychic",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "tangrowth",
+    "moves": [
+     "power-whip",
+     "earthquake",
+     "focus-blast",
+     "sludge-bomb"
+    ]
+   },
+   {
+    "species": "crobat",
+    "moves": [
+     "sludge-bomb",
+     "wing-attack",
+     "x-scissor",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "toxicroak",
+    "moves": [
+     "gunk-shot",
+     "brick-break",
+     "earthquake",
+     "ice-punch"
+    ]
+   }
+  ],
+  "style": "balanced",
+  "split": "tune"
+ },
+ "wh_fire": {
+  "team": [
+   {
+    "species": "infernape",
+    "moves": [
+     "flare-blitz",
+     "focus-blast",
+     "earthquake",
+     "gunk-shot"
+    ]
+   },
+   {
+    "species": "arcanine",
+    "moves": [
+     "fire-blast",
+     "dragon-pulse",
+     "iron-head",
+     "strength"
+    ]
+   },
+   {
+    "species": "magmortar",
+    "moves": [
+     "fire-blast",
+     "earthquake",
+     "thunderbolt",
+     "focus-blast"
+    ]
+   },
+   {
+    "species": "electivire",
+    "moves": [
+     "thunder-punch",
+     "earthquake",
+     "ice-punch",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "luxray",
+    "moves": [
+     "thunderbolt",
+     "signal-beam",
+     "iron-tail",
+     "crunch"
+    ]
+   },
+   {
+    "species": "rapidash",
+    "moves": [
+     "flare-blitz",
+     "megahorn",
+     "fire-blast",
+     "flamethrower"
+    ]
+   }
+  ],
+  "style": "aggressive",
+  "split": "holdout"
+ },
+ "wh_bulky": {
+  "team": [
+   {
+    "species": "blissey",
+    "moves": [
+     "double-edge",
+     "focus-blast",
+     "ice-beam",
+     "psychic"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "gunk-shot",
+     "body-slam"
+    ]
+   },
+   {
+    "species": "skarmory",
+    "moves": [
+     "brave-bird",
+     "steel-wing",
+     "drill-peck",
+     "pluck"
+    ]
+   },
+   {
+    "species": "bronzong",
+    "moves": [
+     "iron-head",
+     "psychic",
+     "earthquake",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "hippowdon",
+    "moves": [
+     "earthquake",
+     "stone-edge",
+     "crunch",
+     "double-edge"
+    ]
+   },
+   {
+    "species": "milotic",
+    "moves": [
+     "hydro-pump",
+     "ice-beam",
+     "dragon-pulse",
+     "surf"
+    ]
+   }
+  ],
+  "style": "patient",
+  "split": "holdout"
+ },
+ "wh_sinnoh": {
+  "team": [
+   {
+    "species": "togekiss",
+    "moves": [
+     "air-slash",
+     "swift",
+     "aura-sphere",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "glaceon",
+    "moves": [
+     "ice-beam",
+     "shadow-ball",
+     "signal-beam",
+     "blizzard"
+    ]
+   },
+   {
+    "species": "garchomp",
+    "moves": [
+     "earthquake",
+     "dragon-claw",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "lucario",
+    "moves": [
+     "aura-sphere",
+     "flash-cannon",
+     "ice-punch",
+     "earthquake"
+    ]
+   },
+   {
+    "species": "spiritomb",
+    "moves": [
+     "shadow-ball",
+     "dark-pulse",
+     "water-pulse",
+     "psychic"
+    ]
+   },
+   {
+    "species": "gastrodon",
+    "moves": [
+     "surf",
+     "earthquake",
+     "ice-beam",
+     "stone-edge"
+    ]
+   }
+  ],
+  "style": "balanced",
+  "split": "holdout"
+ },
+ "wh_icerock": {
+  "team": [
+   {
+    "species": "mamoswine",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "stone-edge",
+     "double-hit"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "night-slash",
+     "brick-break",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "glaceon",
+    "moves": [
+     "ice-beam",
+     "shadow-ball",
+     "signal-beam",
+     "blizzard"
+    ]
+   },
+   {
+    "species": "aerodactyl",
+    "moves": [
+     "stone-edge",
+     "wing-attack",
+     "earthquake",
+     "crunch"
+    ]
+   },
+   {
+    "species": "tyranitar",
+    "moves": [
+     "stone-edge",
+     "crunch",
+     "earthquake",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "abomasnow",
+    "moves": [
+     "wood-hammer",
+     "ice-beam",
+     "earthquake",
+     "focus-blast"
+    ]
+   }
+  ],
+  "style": "aggressive",
+  "split": "holdout"
+ }
+}

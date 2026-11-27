@@ -1,0 +1,23 @@
+team=examples/best_team.json policy=baseline mode=runner legal=(True, []) cost=40
+  public     win   6.2%  CI[ 4.4, 8.7]  win-turns  14.8  turnlimit 0  fallbacks 0   14.6/s
+  offensive  win   3.4%  CI[ 2.1, 5.4]  win-turns  14.6  turnlimit 0  fallbacks 0   17.4/s
+  defensive  win   2.8%  CI[ 1.7, 4.6]  win-turns  15.4  turnlimit 0  fallbacks 0   16.5/s
+  status     win   7.4%  CI[ 5.4,10.0]  win-turns  14.5  turnlimit 0  fallbacks 0   11.3/s
+  speed      win   7.2%  CI[ 5.2, 9.8]  win-turns  14.6  turnlimit 0  fallbacks 0    5.9/s
+  policy     win   0.2%  CI[ 0.0, 1.1]  win-turns  12.0  turnlimit 0  fallbacks 0    5.6/s
+team=examples/best_team.json policy=examples/example_policy.py mode=direct legal=(True, []) cost=40
+  public     win   0.2%  CI[ 0.0, 1.1]  win-turns  13.0  turnlimit 0  fallbacks 0   23.9/s
+  offensive  win   0.0%  CI[ 0.0, 0.8]  win-turns   0.0  turnlimit 0  fallbacks 0   28.5/s
+  defensive  win   0.0%  CI[ 0.0, 0.8]  win-turns   0.0  turnlimit 0  fallbacks 0   27.1/s
+  status     win   0.8%  CI[ 0.3, 2.0]  win-turns  13.0  turnlimit 0  fallbacks 0   26.7/s
+  speed      win   0.0%  CI[ 0.0, 0.8]  win-turns   0.0  turnlimit 0  fallbacks 0   28.2/s
+  policy     win   0.0%  CI[ 0.0, 0.8]  win-turns   0.0  turnlimit 0  fallbacks 0   29.1/s
+team=examples/best_team.json policy=examples/best_policy.py mode=direct legal=(True, []) cost=40
+  public     win   0.0%  CI[ 0.0, 0.8]  win-turns   0.0  turnlimit 0  fallbacks 0   20.5/s
+  offensive  win   0.2%  CI[ 0.0, 1.1]  win-turns  12.0  turnlimit 0  fallbacks 0   25.3/s
+  defensive  win   2.6%  CI[ 1.5, 4.4]  win-turns  14.0  turnlimit 0  fallbacks 0   22.3/s
+  status     win   0.6%  CI[ 0.2, 1.7]  win-turns  12.7  turnlimit 0  fallbacks 0   24.9/s
+  speed      win   0.8%  CI[ 0.3, 2.0]  win-turns  12.5  turnlimit 0  fallbacks 0   23.0/s
+  policy     win   0.4%  CI[ 0.1, 1.4]  win-turns  12.0  turnlimit 0  fallbacks 0   26.6/s
+team=examples/best_team.json policy=examples/best_policy.py mode=runner legal=(True, []) cost=40
+  public     win   0.4%  CI[ 0.1, 1.4]  win-turns  12.0  turnlimit 0  fallbacks 0   20.1/s

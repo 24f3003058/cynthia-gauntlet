@@ -1,0 +1,85 @@
+{
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "patient",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 2.0,
+ "switch_cooldown": 3,
+ "danger_threshold": 0.6,
+ "weak_offense_threshold": 0.4,
+ "aggression": 1.0,
+ "status_weight": 1.0,
+ "priority_weight": 1.0,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "garchomp",
+ "stall_penalty": 0.5,
+ "variant": "wr_dragons",
+ "team": [
+  {
+   "species": "salamence",
+   "moves": [
+    "earthquake",
+    "fire-blast",
+    "aqua-tail",
+    "aerial-ace"
+   ]
+  },
+  {
+   "species": "dragonite",
+   "moves": [
+    "dragon-claw",
+    "wing-attack",
+    "aqua-tail",
+    "earthquake"
+   ]
+  },
+  {
+   "species": "flygon",
+   "moves": [
+    "earthquake",
+    "dragon-claw",
+    "flamethrower",
+    "fire-blast"
+   ]
+  },
+  {
+   "species": "rhyperior",
+   "moves": [
+    "megahorn",
+    "poison-jab",
+    "rock-slide",
+    "stone-edge"
+   ]
+  },
+  {
+   "species": "tyranitar",
+   "moves": [
+    "crunch",
+    "bite",
+    "rock-slide",
+    "aqua-tail"
+   ]
+  },
+  {
+   "species": "gliscor",
+   "moves": [
+    "aqua-tail",
+    "earthquake",
+    "strength",
+    "stone-edge"
+   ]
+  }
+ ],
+ "_assumption": "WIDE stand-in, random moves"
+}

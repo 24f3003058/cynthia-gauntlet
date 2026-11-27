@@ -1,0 +1,85 @@
+{
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "balanced",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 2.0,
+ "switch_cooldown": 3,
+ "danger_threshold": 0.6,
+ "weak_offense_threshold": 0.4,
+ "aggression": 1.0,
+ "status_weight": 1.0,
+ "priority_weight": 1.0,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "garchomp",
+ "stall_penalty": 0.5,
+ "variant": "wr_special",
+ "team": [
+  {
+   "species": "alakazam",
+   "moves": [
+    "shadow-ball",
+    "focus-blast",
+    "psychic",
+    "energy-ball"
+   ]
+  },
+  {
+   "species": "gengar",
+   "moves": [
+    "shadow-ball",
+    "ominous-wind",
+    "sludge-bomb",
+    "focus-blast"
+   ]
+  },
+  {
+   "species": "porygon-z",
+   "moves": [
+    "swift",
+    "shadow-ball",
+    "thunder",
+    "psychic"
+   ]
+  },
+  {
+   "species": "magnezone",
+   "moves": [
+    "mirror-shot",
+    "signal-beam",
+    "flash-cannon",
+    "discharge"
+   ]
+  },
+  {
+   "species": "espeon",
+   "moves": [
+    "iron-tail",
+    "shadow-ball",
+    "zen-headbutt",
+    "psybeam"
+   ]
+  },
+  {
+   "species": "jolteon",
+   "moves": [
+    "discharge",
+    "signal-beam",
+    "thunder",
+    "thunderbolt"
+   ]
+  }
+ ],
+ "_assumption": "WIDE stand-in, random moves"
+}

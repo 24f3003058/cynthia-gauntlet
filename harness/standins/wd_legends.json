@@ -1,0 +1,85 @@
+{
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "patient",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 2.0,
+ "switch_cooldown": 3,
+ "danger_threshold": 0.6,
+ "weak_offense_threshold": 0.4,
+ "aggression": 1.0,
+ "status_weight": 1.0,
+ "priority_weight": 1.0,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "garchomp",
+ "stall_penalty": 0.5,
+ "variant": "wd_legends",
+ "team": [
+  {
+   "species": "heatran",
+   "moves": [
+    "fire-blast",
+    "flash-cannon",
+    "earth-power",
+    "dark-pulse"
+   ]
+  },
+  {
+   "species": "latios",
+   "moves": [
+    "luster-purge",
+    "dragon-pulse",
+    "earthquake",
+    "ice-beam"
+   ]
+  },
+  {
+   "species": "cresselia",
+   "moves": [
+    "psychic",
+    "ice-beam",
+    "shadow-ball",
+    "energy-ball"
+   ]
+  },
+  {
+   "species": "azelf",
+   "moves": [
+    "psychic",
+    "fire-blast",
+    "energy-ball",
+    "shadow-ball"
+   ]
+  },
+  {
+   "species": "uxie",
+   "moves": [
+    "psychic",
+    "ice-punch",
+    "fire-punch",
+    "shadow-ball"
+   ]
+  },
+  {
+   "species": "raikou",
+   "moves": [
+    "thunderbolt",
+    "signal-beam",
+    "extrasensory",
+    "shadow-ball"
+   ]
+  }
+ ],
+ "_assumption": "WIDE stand-in (tune): invented team"
+}

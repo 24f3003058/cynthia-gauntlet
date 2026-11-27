@@ -1,0 +1,136 @@
+{
+ "team": "examples/run1000_team.json",
+ "policy": "policy_build/policy.py",
+ "n": 200,
+ "seeds": "tune",
+ "fingerprint": "2d945cac04",
+ "summary": {
+  "per_opponent": {
+   "public": {
+    "n": 200,
+    "wins": 178,
+    "win_rate": 0.89,
+    "ci95": [
+     0.8390720169908702,
+     0.9262280983928396
+    ],
+    "avg_win_turns": 16.54494382022472,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 38.67249999893829
+   },
+   "si_aggressive": {
+    "n": 200,
+    "wins": 186,
+    "win_rate": 0.93,
+    "ci95": [
+     0.8859442178331628,
+     0.9578482170770813
+    ],
+    "avg_win_turns": 16.521505376344088,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 32.284300003084354
+   },
+   "si_patient": {
+    "n": 200,
+    "wins": 186,
+    "win_rate": 0.93,
+    "ci95": [
+     0.8859442178331628,
+     0.9578482170770813
+    ],
+    "avg_win_turns": 18.532258064516128,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 46.14340000262018
+   },
+   "si_altmoves": {
+    "n": 200,
+    "wins": 188,
+    "win_rate": 0.94,
+    "ci95": [
+     0.8980673646931491,
+     0.9653481500987285
+    ],
+    "avg_win_turns": 16.893617021276597,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 36.68640000250889
+   },
+   "si_altteam_a": {
+    "n": 200,
+    "wins": 84,
+    "win_rate": 0.42,
+    "ci95": [
+     0.3537348235017175,
+     0.48928053744521394
+    ],
+    "avg_win_turns": 16.928571428571427,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 35.76980000070762
+   },
+   "si_altteam_b": {
+    "n": 200,
+    "wins": 122,
+    "win_rate": 0.61,
+    "ci95": [
+     0.5409361758928832,
+     0.6749177028050861
+    ],
+    "avg_win_turns": 14.180327868852459,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 73.04359999398002
+   },
+   "si_giratina": {
+    "n": 200,
+    "wins": 74,
+    "win_rate": 0.37,
+    "ci95": [
+     0.3061249750375241,
+     0.43877498650123936
+    ],
+    "avg_win_turns": 15.837837837837839,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 44.52000000310363
+   },
+   "offensive": {
+    "n": 200,
+    "wins": 170,
+    "win_rate": 0.85,
+    "ci95": [
+     0.7939430617334484,
+     0.892864734123727
+    ],
+    "avg_win_turns": 16.2,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 42.07719999976689
+   },
+   "defensive": {
+    "n": 200,
+    "wins": 172,
+    "win_rate": 0.86,
+    "ci95": [
+     0.8051000619915237,
+     0.9013308137472852
+    ],
+    "avg_win_turns": 18.27906976744186,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 117.03930000658147
+   }
+  },
+  "mean_win_rate": 0.7555555555555555,
+  "mean_ci95": [
+   0.7383593831419336,
+   0.7727517279691775
+  ],
+  "worst": "si_giratina",
+  "avg_win_turns": 16.811029411764707,
+  "total_fallbacks": 0
+ }
+}

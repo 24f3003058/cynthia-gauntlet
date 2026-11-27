@@ -1,0 +1,10 @@
+team=examples/run1000_team.json policy=examples/best_policy.py mode=direct legal=(True, []) cost=40
+  public     win  85.4%  CI[82.0,88.2]  win-turns  15.6  turnlimit 0  fallbacks 0   16.1/s
+  offensive  win  87.0%  CI[83.8,89.7]  win-turns  15.1  turnlimit 0  fallbacks 0   22.9/s
+  defensive  win  81.2%  CI[77.5,84.4]  win-turns  16.5  turnlimit 0  fallbacks 0   14.3/s
+  status     win  85.6%  CI[82.3,88.4]  win-turns  15.9  turnlimit 0  fallbacks 0   17.2/s
+  speed      win  84.6%  CI[81.2,87.5]  win-turns  15.5  turnlimit 0  fallbacks 0   25.1/s
+  policy     win  31.8%  CI[27.9,36.0]  win-turns  15.0  turnlimit 0  fallbacks 0   78.3/s
+team=examples/run1000_team.json policy=baseline mode=runner legal=(True, []) cost=40
+  public     win  46.8%  CI[42.5,51.2]  win-turns  14.4  turnlimit 0  fallbacks 0   21.3/s
+  policy     win   2.6%  CI[ 1.5, 4.4]  win-turns  12.4  turnlimit 0  fallbacks 0   30.8/s

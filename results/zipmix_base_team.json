@@ -1,0 +1,58 @@
+{
+ "team": "submission/team.json",
+ "policy": null,
+ "n": 300,
+ "seeds": "tune",
+ "fingerprint": "ef0e2933ac",
+ "summary": {
+  "per_opponent": {
+   "public": {
+    "n": 300,
+    "wins": 134,
+    "win_rate": 0.44666666666666666,
+    "ci95": [
+     0.39143616500447354,
+     0.5032458008619516
+    ],
+    "avg_win_turns": 14.492537313432836,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 0.0
+   },
+   "si_aggressive": {
+    "n": 300,
+    "wins": 124,
+    "win_rate": 0.41333333333333333,
+    "ci95": [
+     0.35904776475728883,
+     0.469810429775652
+    ],
+    "avg_win_turns": 14.274193548387096,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 0.0
+   },
+   "si_patient": {
+    "n": 300,
+    "wins": 86,
+    "win_rate": 0.2866666666666667,
+    "ci95": [
+     0.238445210315098,
+     0.3402826531506026
+    ],
+    "avg_win_turns": 14.488372093023257,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 0.0
+   }
+  },
+  "mean_win_rate": 0.38222222222222224,
+  "mean_ci95": [
+   0.35079574946240627,
+   0.4136486949820382
+  ],
+  "worst": "si_patient",
+  "avg_win_turns": 14.412790697674419,
+  "total_fallbacks": 0
+ }
+}

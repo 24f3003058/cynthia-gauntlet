@@ -1,0 +1,89 @@
+it  0 n=60  70.93 vs  79.07  lead starmie
+it  1 n=60  79.26 vs  79.07  moves gyarados  | n=200  79.22 vs  79.89 
+it  2 n=60  56.11 vs  79.07  swap gyarados->rampardos
+it  3 n=60  79.26 vs  79.07  moves gyarados  | n=200  79.22 vs  79.89 
+it  4 n=60  41.11 vs  79.07  swap gyarados->wooper
+it  5 n=60  35.74 vs  79.07  swap weavile->vespiquen
+it  6 n=60  78.70 vs  79.07  swap pichu->sunkern  | n=200  79.61 vs  79.89 
+it  7 n=60  42.04 vs  79.07  swap weavile->lanturn
+# resumed 2026-11-26 17:30:12 with --seed 2
+it  0 n=60  19.07 vs  79.07  swap weavile->diglett
+it  1 n=60  72.78 vs  79.07  lead gengar
+it  2 n=60  79.07 vs  79.07  swap pichu->ralts  | n=200  80.11 vs  79.89 ACCEPT
+it  3 n=60  75.93 vs  79.07  moves starmie
+it  4 n=60  53.33 vs  79.07  swap starmie->donphan
+it  5 n=60  78.70 vs  79.07  swap ralts->sunkern  | n=200  79.61 vs  80.11 
+it  6 n=60  69.07 vs  79.07  swap gyarados->donphan
+it  7 n=60  79.07 vs  79.07  moves weavile  | n=200  80.00 vs  80.11 
+it  8 n=60  61.85 vs  79.07  swap gengar->girafarig
+it  9 n=60  75.93 vs  79.07  swap swinub->happiny
+it 10 n=60  53.89 vs  79.07  swap starmie->scyther
+it 11 n=60  72.04 vs  79.07  lead gyarados
+it 12 n=60  78.70 vs  79.07  moves swinub  | n=200  79.94 vs  80.11 
+it 13 n=60  79.07 vs  79.07  swap ralts->azurill  | n=200  79.83 vs  80.11 
+it 14 n=60  40.74 vs  79.07  swap gyarados->combee
+it 15 n=60  75.56 vs  79.07  swap swinub->bidoof
+it 16 n=60  76.30 vs  79.07  swap swinub->hoppip
+it 17 n=60  61.30 vs  79.07  swap gyarados->magneton
+it 18 n=60  56.85 vs  79.07  swap gyarados->dusknoir
+it 19 n=60  79.07 vs  79.07  swap ralts->azurill  | n=200  79.83 vs  80.11 
+it 20 n=60  69.07 vs  79.07  swap gyarados->donphan
+it 21 n=60  70.37 vs  79.07  swap gengar->torterra
+it 22 n=60  65.19 vs  79.07  swap gyarados->aerodactyl
+it 23 n=60  76.67 vs  79.07  swap swinub->starly
+it 24 n=60  79.07 vs  79.07  swap ralts->azurill  | n=200  79.83 vs  80.11 
+it 25 n=60  79.07 vs  79.07  swap ralts->azurill  | n=200  79.83 vs  80.11 
+it 26 n=60  75.74 vs  79.07  swap swinub->togepi
+it 27 n=60  71.11 vs  79.07  swap gyarados->jolteon
+it 28 n=60  79.44 vs  79.07  moves ralts  | n=200  80.22 vs  80.11 ACCEPT
+it 29 n=60  76.30 vs  79.44  moves starmie
+it 30 n=60  79.26 vs  79.44  swap ralts->pichu  | n=200  79.94 vs  80.22 
+it 31 n=60  58.33 vs  79.44  swap gengar->purugly
+it 32 n=60  73.15 vs  79.44  lead gengar
+it 33 n=60  57.41 vs  79.44  swap weavile->ninetales
+it 34 n=60  50.93 vs  79.44  swap weavile->espeon
+it 35 n=60  79.26 vs  79.44  swap ralts->pichu  | n=200  79.94 vs  80.22 
+it 36 n=60  45.74 vs  79.44  swap starmie->flareon
+it 37 n=60  76.30 vs  79.44  moves starmie
+it 38 n=60  79.26 vs  79.44  swap ralts->pichu  | n=200  79.94 vs  80.22 
+it 39 n=60  72.04 vs  79.44  lead gyarados
+it 40 n=60  79.07 vs  79.44  moves ralts  | n=200  80.11 vs  80.22 
+it 41 n=60  71.11 vs  79.44  lead starmie
+it 42 n=60  71.11 vs  79.44  lead starmie
+it 43 n=60  43.15 vs  79.44  swap starmie->muk
+it 44 n=60  76.48 vs  79.44  swap swinub->feebas
+it 45 n=60  67.04 vs  79.44  lead ralts
+it 46 n=60  73.15 vs  79.44  lead gengar
+it 47 n=60  79.44 vs  79.44  moves weavile  | n=200  80.06 vs  80.22 
+it 48 n=60  78.70 vs  79.44  moves swinub  | n=200  79.94 vs  80.22 
+it 49 n=60  79.63 vs  79.44  moves gyarados  | n=200  79.61 vs  80.22 
+it 50 n=60  78.70 vs  79.44  moves swinub  | n=200  79.94 vs  80.22 
+it 51 n=60  67.41 vs  79.44  swap gyarados->carnivine
+it 52 n=60  31.85 vs  79.44  swap starmie->kirlia
+it 53 n=60  41.48 vs  79.44  swap weavile->torterra
+it 54 n=60  16.48 vs  79.44  swap weavile->pichu
+it 55 n=60  30.56 vs  79.44  swap starmie->makuhita
+it 56 n=60  67.96 vs  79.44  swap gyarados->octillery
+it 57 n=60  30.74 vs  79.44  swap starmie->azurill
+it 58 n=60  78.70 vs  79.44  moves swinub  | n=200  79.94 vs  80.22 
+it 59 n=60  79.07 vs  79.44  swap ralts->azurill  | n=200  79.83 vs  80.22 
+it 60 n=60  62.41 vs  79.44  swap gengar->sandslash
+it 61 n=60  73.15 vs  79.44  lead gengar
+it 62 n=60  73.15 vs  79.44  lead gengar
+it 63 n=60  79.26 vs  79.44  swap ralts->pichu  | n=200  79.94 vs  80.22 
+it 64 n=60  57.22 vs  79.44  swap starmie->gastrodon
+it 65 n=60  68.52 vs  79.44  swap gengar->vileplume
+it 66 n=60  76.11 vs  79.44  swap swinub->combee
+it 67 n=60  78.70 vs  79.44  swap ralts->sunkern  | n=200  79.61 vs  80.22 
+it 68 n=60  79.63 vs  79.44  moves gyarados  | n=200  79.61 vs  80.22 
+it 69 n=60  51.48 vs  79.44  swap weavile->dodrio
+it 70 n=60  69.26 vs  79.44  lead swinub
+it 71 n=60  78.70 vs  79.44  moves swinub  | n=200  79.94 vs  80.22 
+it 72 n=60  79.44 vs  79.44  moves weavile  | n=200  80.11 vs  80.22 
+it 73 n=60  76.30 vs  79.44  moves starmie
+it 74 n=60  78.70 vs  79.44  moves swinub  | n=200  79.94 vs  80.22 
+it 75 n=60  76.11 vs  79.44  swap swinub->whismur
+it 76 n=60  79.07 vs  79.44  swap ralts->azurill  | n=200  79.83 vs  80.22 
+it 77 n=60  70.93 vs  79.44  swap gyarados->ambipom
+it 78 n=60  76.48 vs  79.44  swap swinub->seedot
+it 79 n=60  69.26 vs  79.44  lead swinub

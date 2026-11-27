@@ -1,0 +1,16 @@
+ran final (70000 battles, 465s)
+ran bite (70000 battles, 496s)
+
+seeds 900000000..900009999, 10000 battles/opponent, identical for every entry
+opponent                       final                  bite           diff bite-final
+ho_team_c         46.0 [45.0,47.0]    43.9 [42.9,44.8]     -2.2 [ -3.0, -1.3] -
+ho_params         92.2 [91.7,92.7]    92.2 [91.7,92.7]     -0.0 [ -0.0, +0.0]  
+ho_mixed          96.2 [95.8,96.5]    97.3 [97.0,97.6]     +1.1 [ +0.7, +1.5] *
+wh_fire           14.3 [13.7,15.0]    13.9 [13.2,14.6]     -0.4 [ -0.7, -0.2] -
+wh_bulky          35.3 [34.4,36.3]    35.6 [34.7,36.6]     +0.3 [ +0.2, +0.4] *
+wh_sinnoh         78.3 [77.5,79.1]    71.0 [70.1,71.9]     -7.2 [ -8.1, -6.4] -
+wh_icerock        18.3 [17.6,19.1]    15.1 [14.4,15.8]     -3.3 [ -4.1, -2.4] -
+MEAN ALL         54.38 [54.1,54.7]   52.71 [52.4,53.0]    -1.67 [-1.88,-1.45] -
+final: fallbacks 0, turn-limit losses 0, mean avg-win-turns 17.09, max policy ms 778
+bite: fallbacks 0, turn-limit losses 0, mean avg-win-turns 16.88, max policy ms 663
+(* = difference > 0 at 95%, - = < 0 at 95%)

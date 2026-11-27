@@ -1,0 +1,3602 @@
+[
+ {
+  "score": 0.9825160944344402,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "gyarados",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "waterfall",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "quick-attack",
+     "ice-punch",
+     "brick-break",
+     "night-slash"
+    ]
+   },
+   {
+    "species": "mankey",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "seed-bomb",
+     "cross-chop"
+    ]
+   },
+   {
+    "species": "starly",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "heat-wave",
+     "u-turn"
+    ]
+   },
+   {
+    "species": "slugma",
+    "moves": [
+     "fire-blast",
+     "earth-power",
+     "ancient-power",
+     "flamethrower"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9811692188790248,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "machop",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "bidoof",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "aqua-tail",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "happiny",
+    "moves": [
+     "fire-blast",
+     "psychic",
+     "shock-wave",
+     "drain-punch"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9781783094020532,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "hippowdon",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "spinarak",
+    "moves": [
+     "night-shade",
+     "giga-drain",
+     "poison-jab",
+     "bug-bite"
+    ]
+   },
+   {
+    "species": "shedinja",
+    "moves": [
+     "shadow-sneak",
+     "x-scissor",
+     "shadow-claw",
+     "aerial-ace"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9776397942999695,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "ledyba",
+    "moves": [
+     "bug-buzz",
+     "air-cutter",
+     "giga-drain",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "togepi",
+    "moves": [
+     "fire-blast",
+     "double-edge",
+     "psychic",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "combee",
+    "moves": [
+     "air-cutter",
+     "bug-bite",
+     "ominous-wind",
+     "gust"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9776397942999695,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "vulpix",
+    "moves": [
+     "flare-blitz",
+     "energy-ball",
+     "extrasensory",
+     "fire-blast"
+    ]
+   },
+   {
+    "species": "togepi",
+    "moves": [
+     "fire-blast",
+     "double-edge",
+     "psychic",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "sentret",
+    "moves": [
+     "quick-attack",
+     "double-edge",
+     "ice-beam",
+     "brick-break"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9767364491402143,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "wooper",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "iron-tail",
+     "headbutt"
+    ]
+   },
+   {
+    "species": "seedot",
+    "moves": [
+     "seed-bomb",
+     "take-down",
+     "rock-smash",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9767052744419181,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "thunderbolt",
+     "psychic"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "finneon",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "u-turn",
+     "aqua-tail"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "feint",
+     "earthquake",
+     "ice-punch",
+     "cross-chop"
+    ]
+   },
+   {
+    "species": "seedot",
+    "moves": [
+     "seed-bomb",
+     "take-down",
+     "rock-smash",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9746733543756952,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "torterra",
+    "moves": [
+     "earthquake",
+     "wood-hammer",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "krabby",
+    "moves": [
+     "crabhammer",
+     "x-scissor",
+     "brick-break",
+     "ice-beam"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "feint",
+     "earthquake",
+     "ice-punch",
+     "cross-chop"
+    ]
+   },
+   {
+    "species": "seedot",
+    "moves": [
+     "seed-bomb",
+     "take-down",
+     "rock-smash",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9744101360586493,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "nidoking",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "fire-blast",
+     "megahorn"
+    ]
+   },
+   {
+    "species": "nidoran-m",
+    "moves": [
+     "horn-drill",
+     "ice-beam",
+     "head-smash",
+     "double-kick"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   },
+   {
+    "species": "wingull",
+    "moves": [
+     "quick-attack",
+     "ice-beam",
+     "air-slash",
+     "water-pulse"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9673084581275834,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "swampert",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "stone-edge",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "lopunny",
+    "moves": [
+     "ice-punch",
+     "thunder-punch",
+     "fire-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "shellos",
+    "moves": [
+     "fissure",
+     "ice-beam",
+     "earth-power",
+     "surf"
+    ]
+   },
+   {
+    "species": "hoppip",
+    "moves": [
+     "seed-bomb",
+     "aerial-ace",
+     "energy-ball",
+     "double-edge"
+    ]
+   },
+   {
+    "species": "igglybuff",
+    "moves": [
+     "fire-blast",
+     "headbutt",
+     "psychic",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9651813623989574,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "skuntank",
+    "moves": [
+     "feint",
+     "night-slash",
+     "fire-blast",
+     "poison-jab"
+    ]
+   },
+   {
+    "species": "snover",
+    "moves": [
+     "wood-hammer",
+     "ice-beam",
+     "ice-punch",
+     "sheer-cold"
+    ]
+   },
+   {
+    "species": "surskit",
+    "moves": [
+     "quick-attack",
+     "ice-beam",
+     "hydro-pump",
+     "giga-drain"
+    ]
+   },
+   {
+    "species": "cleffa",
+    "moves": [
+     "fire-blast",
+     "magical-leaf",
+     "psychic",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9598579976778956,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "donphan",
+    "moves": [
+     "earthquake",
+     "seed-bomb",
+     "stone-edge",
+     "gunk-shot"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   },
+   {
+    "species": "sunkern",
+    "moves": [
+     "seed-bomb",
+     "earth-power",
+     "secret-power",
+     "energy-ball"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9573236388338596,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "quick-attack",
+     "ice-beam",
+     "surf",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "marill",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "double-edge",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "magical-leaf",
+     "ice-punch"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9568744443694095,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "shadow-ball",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "aerial-ace",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "bidoof",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "aqua-tail",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9549623598735751,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "gallade",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "leaf-blade",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "hippowdon",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "froslass",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "thunderbolt",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "lotad",
+    "moves": [
+     "energy-ball",
+     "ice-beam",
+     "surf",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "shedinja",
+    "moves": [
+     "shadow-sneak",
+     "x-scissor",
+     "shadow-claw",
+     "aerial-ace"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.954379782098336,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "milotic",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "dragon-pulse",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "murkrow",
+    "moves": [
+     "brave-bird",
+     "dark-pulse",
+     "heat-wave",
+     "night-shade"
+    ]
+   },
+   {
+    "species": "bellsprout",
+    "moves": [
+     "seed-bomb",
+     "sludge-bomb",
+     "energy-ball",
+     "acid"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9541463046633819,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "aerial-ace",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "grovyle",
+    "moves": [
+     "quick-attack",
+     "leaf-blade",
+     "aerial-ace",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "monferno",
+    "moves": [
+     "mach-punch",
+     "flare-blitz",
+     "brick-break",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "natu",
+    "moves": [
+     "quick-attack",
+     "night-shade",
+     "psychic",
+     "giga-drain"
+    ]
+   },
+   {
+    "species": "marill",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "double-edge",
+     "ice-punch"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9531259218396876,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "scizor",
+    "moves": [
+     "x-scissor",
+     "brick-break",
+     "iron-head",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "magical-leaf",
+     "ice-punch"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9520059373523887,
+  "team": [
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "alakazam",
+    "moves": [
+     "psychic",
+     "energy-ball",
+     "focus-blast",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "starly",
+    "moves": [
+     "brave-bird",
+     "heat-wave",
+     "u-turn",
+     "tackle"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9516417221024799,
+  "team": [
+   {
+    "species": "weavile",
+    "moves": [
+     "quick-attack",
+     "ice-punch",
+     "brick-break",
+     "night-slash"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "aerial-ace",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "donphan",
+    "moves": [
+     "earthquake",
+     "seed-bomb",
+     "stone-edge",
+     "gunk-shot"
+    ]
+   },
+   {
+    "species": "slugma",
+    "moves": [
+     "fire-blast",
+     "earth-power",
+     "ancient-power",
+     "flamethrower"
+    ]
+   },
+   {
+    "species": "feebas",
+    "moves": [
+     "ice-beam",
+     "waterfall",
+     "secret-power",
+     "surf"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9515982627594082,
+  "team": [
+   {
+    "species": "gyarados",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "waterfall",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "kangaskhan",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "shadow-ball",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "brick-break",
+     "night-slash",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "tyrogue",
+    "moves": [
+     "earthquake",
+     "brick-break",
+     "rock-slide",
+     "tackle"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9507717088845137,
+  "team": [
+   {
+    "species": "slaking",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "thunder-punch",
+     "strength"
+    ]
+   },
+   {
+    "species": "porygon-z",
+    "moves": [
+     "ice-beam",
+     "thunderbolt",
+     "tri-attack",
+     "psychic"
+    ]
+   },
+   {
+    "species": "flareon",
+    "moves": [
+     "quick-attack",
+     "flamethrower",
+     "strength",
+     "fire-fang"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "starly",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "heat-wave",
+     "u-turn"
+    ]
+   },
+   {
+    "species": "shinx",
+    "moves": [
+     "ice-fang",
+     "spark",
+     "fire-fang",
+     "crunch"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9505314513922034,
+  "team": [
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "torterra",
+    "moves": [
+     "earthquake",
+     "wood-hammer",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "gallade",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "leaf-blade",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "froslass",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "thunderbolt",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "togepi",
+    "moves": [
+     "fire-blast",
+     "double-edge",
+     "psychic",
+     "signal-beam"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9498511225731987,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "heracross",
+    "moves": [
+     "feint",
+     "megahorn",
+     "earthquake",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "jigglypuff",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "fire-blast",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "feebas",
+    "moves": [
+     "ice-beam",
+     "waterfall",
+     "secret-power",
+     "surf"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.949635828410679,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "magmortar",
+    "moves": [
+     "flamethrower",
+     "thunderbolt",
+     "psychic",
+     "focus-blast"
+    ]
+   },
+   {
+    "species": "snover",
+    "moves": [
+     "wood-hammer",
+     "ice-beam",
+     "ice-punch",
+     "sheer-cold"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "togepi",
+    "moves": [
+     "fire-blast",
+     "double-edge",
+     "psychic",
+     "signal-beam"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9495985862757147,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "garchomp",
+    "moves": [
+     "earthquake",
+     "dragon-claw",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "snover",
+    "moves": [
+     "ice-shard",
+     "wood-hammer",
+     "ice-beam",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "bidoof",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "aqua-tail",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "sentret",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "brick-break",
+     "flamethrower"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9495985862757147,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "garchomp",
+    "moves": [
+     "earthquake",
+     "dragon-claw",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "bellsprout",
+    "moves": [
+     "seed-bomb",
+     "sludge-bomb",
+     "energy-ball",
+     "acid"
+    ]
+   },
+   {
+    "species": "spearow",
+    "moves": [
+     "quick-attack",
+     "drill-peck",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "feebas",
+    "moves": [
+     "ice-beam",
+     "waterfall",
+     "secret-power",
+     "surf"
+    ]
+   }
+  ],
+  "cost": 38
+ },
+ {
+  "score": 0.9492976583454233,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "gallade",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "leaf-blade",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "froslass",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "thunderbolt",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "squirtle",
+    "moves": [
+     "ice-beam",
+     "hydro-pump",
+     "zen-headbutt",
+     "strength"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "magical-leaf",
+     "ice-punch"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9492976583454233,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "gallade",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "leaf-blade",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "froslass",
+    "moves": [
+     "ice-beam",
+     "thunderbolt",
+     "ice-punch",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "swinub",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "fissure",
+     "ice-shard"
+    ]
+   },
+   {
+    "species": "shedinja",
+    "moves": [
+     "shadow-sneak",
+     "x-scissor",
+     "shadow-claw",
+     "aerial-ace"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9491916900024197,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "garchomp",
+    "moves": [
+     "earthquake",
+     "dragon-claw",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "seel",
+    "moves": [
+     "horn-drill",
+     "ice-beam",
+     "surf",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "bulbasaur",
+    "moves": [
+     "power-whip",
+     "double-edge",
+     "energy-ball",
+     "sludge-bomb"
+    ]
+   },
+   {
+    "species": "starly",
+    "moves": [
+     "brave-bird",
+     "heat-wave",
+     "u-turn",
+     "tackle"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9490700007998908,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "quick-attack",
+     "ice-punch",
+     "brick-break",
+     "night-slash"
+    ]
+   },
+   {
+    "species": "milotic",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "dragon-pulse",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "hariyama",
+    "moves": [
+     "vacuum-wave",
+     "earthquake",
+     "ice-punch",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "azurill",
+    "moves": [
+     "ice-beam",
+     "body-slam",
+     "surf",
+     "iron-tail"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "magical-leaf",
+     "ice-punch"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9480123641933272,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "hippowdon",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "alakazam",
+    "moves": [
+     "psychic",
+     "energy-ball",
+     "focus-blast",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "cleffa",
+    "moves": [
+     "fire-blast",
+     "magical-leaf",
+     "psychic",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "rattata",
+    "moves": [
+     "quick-attack",
+     "double-edge",
+     "ice-beam",
+     "flame-wheel"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9477690244259105,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "mamoswine",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "ice-fang",
+     "iron-head"
+    ]
+   },
+   {
+    "species": "scizor",
+    "moves": [
+     "bullet-punch",
+     "x-scissor",
+     "brick-break",
+     "iron-head"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "azurill",
+    "moves": [
+     "ice-beam",
+     "body-slam",
+     "surf",
+     "iron-tail"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9467958871317528,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "thunderbolt",
+     "psychic"
+    ]
+   },
+   {
+    "species": "milotic",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "dragon-pulse",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "ambipom",
+    "moves": [
+     "ice-punch",
+     "seed-bomb",
+     "brick-break",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "zigzagoon",
+    "moves": [
+     "ice-beam",
+     "seed-bomb",
+     "surf",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "marill",
+    "moves": [
+     "aqua-jet",
+     "ice-beam",
+     "surf",
+     "double-edge"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9464668399123127,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "quick-attack",
+     "ice-punch",
+     "brick-break",
+     "night-slash"
+    ]
+   },
+   {
+    "species": "mamoswine",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "ice-fang",
+     "iron-head"
+    ]
+   },
+   {
+    "species": "gallade",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "leaf-blade",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "bidoof",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "aqua-tail",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "zubat",
+    "moves": [
+     "brave-bird",
+     "heat-wave",
+     "u-turn",
+     "gust"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.945651882941301,
+  "team": [
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "kangaskhan",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "quick-attack",
+     "ice-beam",
+     "surf",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "salamence",
+    "moves": [
+     "dragon-claw",
+     "earthquake",
+     "aerial-ace",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "bidoof",
+    "moves": [
+     "quick-attack",
+     "double-edge",
+     "ice-beam",
+     "aqua-tail"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9456109440490732,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "shadow-ball",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "quick-attack",
+     "ice-punch",
+     "brick-break",
+     "night-slash"
+    ]
+   },
+   {
+    "species": "hippopotas",
+    "moves": [
+     "earthquake",
+     "rock-slide",
+     "fissure",
+     "crunch"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "magical-leaf",
+     "ice-punch"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.945034212280951,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "shadow-ball",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "alakazam",
+    "moves": [
+     "psychic",
+     "energy-ball",
+     "focus-blast",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "shellos",
+    "moves": [
+     "fissure",
+     "ice-beam",
+     "earth-power",
+     "surf"
+    ]
+   },
+   {
+    "species": "makuhita",
+    "moves": [
+     "feint",
+     "earthquake",
+     "ice-punch",
+     "cross-chop"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9441891242409609,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "ludicolo",
+    "moves": [
+     "energy-ball",
+     "ice-beam",
+     "surf",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "taillow",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "heat-wave",
+     "u-turn"
+    ]
+   },
+   {
+    "species": "shedinja",
+    "moves": [
+     "shadow-sneak",
+     "x-scissor",
+     "shadow-claw",
+     "aerial-ace"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9439667978057016,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "hariyama",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "brick-break",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "rapidash",
+    "moves": [
+     "flare-blitz",
+     "megahorn",
+     "stomp",
+     "headbutt"
+    ]
+   },
+   {
+    "species": "cleffa",
+    "moves": [
+     "fire-blast",
+     "magical-leaf",
+     "psychic",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "slugma",
+    "moves": [
+     "fire-blast",
+     "earth-power",
+     "ancient-power",
+     "flamethrower"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9433157503236201,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "brick-break",
+     "night-slash",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "ludicolo",
+    "moves": [
+     "energy-ball",
+     "ice-beam",
+     "surf",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "mankey",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "seed-bomb",
+     "cross-chop"
+    ]
+   },
+   {
+    "species": "sentret",
+    "moves": [
+     "quick-attack",
+     "double-edge",
+     "ice-beam",
+     "brick-break"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9427863872606087,
+  "team": [
+   {
+    "species": "garchomp",
+    "moves": [
+     "earthquake",
+     "dragon-claw",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "lickilicky",
+    "moves": [
+     "earthquake",
+     "power-whip",
+     "ice-beam",
+     "fire-punch"
+    ]
+   },
+   {
+    "species": "lanturn",
+    "moves": [
+     "ice-beam",
+     "thunderbolt",
+     "surf",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "sunkern",
+    "moves": [
+     "seed-bomb",
+     "earth-power",
+     "secret-power",
+     "energy-ball"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "shadow-sneak",
+     "psychic",
+     "thunderbolt",
+     "magical-leaf"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9426541232715387,
+  "team": [
+   {
+    "species": "gyarados",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "waterfall",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "thunderbolt",
+     "psychic"
+    ]
+   },
+   {
+    "species": "shedinja",
+    "moves": [
+     "shadow-sneak",
+     "x-scissor",
+     "shadow-claw",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "sunkern",
+    "moves": [
+     "seed-bomb",
+     "earth-power",
+     "secret-power",
+     "energy-ball"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9426328843030872,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "swampert",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "stone-edge",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "brick-break",
+     "night-slash",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "floatzel",
+    "moves": [
+     "ice-punch",
+     "aqua-tail",
+     "brick-break",
+     "ice-beam"
+    ]
+   },
+   {
+    "species": "ledyba",
+    "moves": [
+     "mach-punch",
+     "bug-buzz",
+     "ice-punch",
+     "giga-drain"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "magical-leaf",
+     "ice-punch"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9411840676764524,
+  "team": [
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "magmortar",
+    "moves": [
+     "flamethrower",
+     "thunderbolt",
+     "psychic",
+     "focus-blast"
+    ]
+   },
+   {
+    "species": "ambipom",
+    "moves": [
+     "ice-punch",
+     "seed-bomb",
+     "brick-break",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "lanturn",
+    "moves": [
+     "ice-beam",
+     "thunderbolt",
+     "surf",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "trapinch",
+    "moves": [
+     "feint",
+     "earthquake",
+     "rock-slide",
+     "crunch"
+    ]
+   },
+   {
+    "species": "feebas",
+    "moves": [
+     "ice-beam",
+     "waterfall",
+     "secret-power",
+     "surf"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9404264638939027,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "lapras",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "thunderbolt",
+     "psychic"
+    ]
+   },
+   {
+    "species": "ponyta",
+    "moves": [
+     "flare-blitz",
+     "double-edge",
+     "horn-drill",
+     "double-kick"
+    ]
+   },
+   {
+    "species": "machop",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "seedot",
+    "moves": [
+     "seed-bomb",
+     "take-down",
+     "rock-smash",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.939901486462759,
+  "team": [
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "kangaskhan",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "milotic",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "dragon-pulse",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "skarmory",
+    "moves": [
+     "brave-bird",
+     "steel-wing",
+     "air-cutter",
+     "slash"
+    ]
+   },
+   {
+    "species": "tyrogue",
+    "moves": [
+     "earthquake",
+     "brick-break",
+     "rock-slide",
+     "tackle"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "shadow-sneak",
+     "psychic",
+     "thunderbolt",
+     "magical-leaf"
+    ]
+   }
+  ],
+  "cost": 38
+ },
+ {
+  "score": 0.9393580624942279,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "torterra",
+    "moves": [
+     "earthquake",
+     "wood-hammer",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "magby",
+    "moves": [
+     "mach-punch",
+     "flare-blitz",
+     "thunder-punch",
+     "psychic"
+    ]
+   },
+   {
+    "species": "seel",
+    "moves": [
+     "horn-drill",
+     "ice-beam",
+     "surf",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "riolu",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9393098657335832,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "kangaskhan",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "quick-attack",
+     "ice-beam",
+     "surf",
+     "shadow-ball"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "brick-break",
+     "night-slash",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "slakoth",
+    "moves": [
+     "ice-punch",
+     "brick-break",
+     "body-slam",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "ralts",
+    "moves": [
+     "psychic",
+     "thunderbolt",
+     "magical-leaf",
+     "ice-punch"
+    ]
+   }
+  ],
+  "cost": 38
+ },
+ {
+  "score": 0.9376494888227075,
+  "team": [
+   {
+    "species": "gyarados",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "waterfall",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "vaporeon",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "shadow-ball",
+     "hydro-pump"
+    ]
+   },
+   {
+    "species": "ambipom",
+    "moves": [
+     "ice-punch",
+     "seed-bomb",
+     "brick-break",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "shellos",
+    "moves": [
+     "fissure",
+     "ice-beam",
+     "earth-power",
+     "surf"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9376300716883292,
+  "team": [
+   {
+    "species": "gyarados",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "waterfall",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "quick-attack",
+     "ice-punch",
+     "brick-break",
+     "night-slash"
+    ]
+   },
+   {
+    "species": "abomasnow",
+    "moves": [
+     "wood-hammer",
+     "ice-punch",
+     "earthquake",
+     "ice-beam"
+    ]
+   },
+   {
+    "species": "gastrodon",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "surf",
+     "earth-power"
+    ]
+   },
+   {
+    "species": "starly",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "heat-wave",
+     "u-turn"
+    ]
+   },
+   {
+    "species": "marill",
+    "moves": [
+     "aqua-jet",
+     "ice-beam",
+     "surf",
+     "double-edge"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9374352089370841,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "mamoswine",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "ice-fang",
+     "iron-head"
+    ]
+   },
+   {
+    "species": "electivire",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-punch",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "glaceon",
+    "moves": [
+     "ice-shard",
+     "ice-beam",
+     "shadow-ball",
+     "water-pulse"
+    ]
+   },
+   {
+    "species": "spinarak",
+    "moves": [
+     "night-shade",
+     "giga-drain",
+     "poison-jab",
+     "bug-bite"
+    ]
+   },
+   {
+    "species": "pichu",
+    "moves": [
+     "volt-tackle",
+     "headbutt",
+     "signal-beam",
+     "charge-beam"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9368901009671036,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "jolteon",
+    "moves": [
+     "thunderbolt",
+     "shadow-ball",
+     "strength",
+     "double-kick"
+    ]
+   },
+   {
+    "species": "ambipom",
+    "moves": [
+     "ice-punch",
+     "seed-bomb",
+     "brick-break",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "sandslash",
+    "moves": [
+     "earthquake",
+     "stone-edge",
+     "x-scissor",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "barboach",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "fissure",
+     "earth-power"
+    ]
+   },
+   {
+    "species": "sentret",
+    "moves": [
+     "quick-attack",
+     "double-edge",
+     "ice-beam",
+     "brick-break"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9360948627703993,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "brave-bird",
+     "u-turn",
+     "heat-wave",
+     "tackle"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "scizor",
+    "moves": [
+     "x-scissor",
+     "brick-break",
+     "iron-head",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "cloyster",
+    "moves": [
+     "ice-beam",
+     "surf",
+     "poison-jab",
+     "signal-beam"
+    ]
+   },
+   {
+    "species": "skitty",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "mud-bomb",
+     "zen-headbutt"
+    ]
+   },
+   {
+    "species": "slugma",
+    "moves": [
+     "fire-blast",
+     "earth-power",
+     "ancient-power",
+     "flamethrower"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9342509433653211,
+  "team": [
+   {
+    "species": "staraptor",
+    "moves": [
+     "quick-attack",
+     "brave-bird",
+     "u-turn",
+     "heat-wave"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "hippowdon",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "electabuzz",
+    "moves": [
+     "quick-attack",
+     "thunderbolt",
+     "ice-punch",
+     "focus-blast"
+    ]
+   },
+   {
+    "species": "bellsprout",
+    "moves": [
+     "seed-bomb",
+     "sludge-bomb",
+     "energy-ball",
+     "acid"
+    ]
+   },
+   {
+    "species": "spinarak",
+    "moves": [
+     "shadow-sneak",
+     "night-shade",
+     "giga-drain",
+     "poison-jab"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9323517004236727,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "quick-attack",
+     "earthquake",
+     "ice-fang",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "jolteon",
+    "moves": [
+     "thunderbolt",
+     "shadow-ball",
+     "strength",
+     "double-kick"
+    ]
+   },
+   {
+    "species": "grovyle",
+    "moves": [
+     "quick-attack",
+     "leaf-blade",
+     "aerial-ace",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "hippopotas",
+    "moves": [
+     "earthquake",
+     "rock-slide",
+     "fissure",
+     "crunch"
+    ]
+   },
+   {
+    "species": "igglybuff",
+    "moves": [
+     "fire-blast",
+     "headbutt",
+     "psychic",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.932165128673576,
+  "team": [
+   {
+    "species": "snorlax",
+    "moves": [
+     "double-edge",
+     "earthquake",
+     "ice-punch",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "gliscor",
+    "moves": [
+     "earthquake",
+     "ice-fang",
+     "aerial-ace",
+     "stone-edge"
+    ]
+   },
+   {
+    "species": "gallade",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "leaf-blade",
+     "brick-break"
+    ]
+   },
+   {
+    "species": "croagunk",
+    "moves": [
+     "earthquake",
+     "ice-punch",
+     "cross-chop",
+     "thunder-punch"
+    ]
+   },
+   {
+    "species": "luxio",
+    "moves": [
+     "spark",
+     "crunch",
+     "thunderbolt",
+     "iron-tail"
+    ]
+   },
+   {
+    "species": "lotad",
+    "moves": [
+     "energy-ball",
+     "ice-beam",
+     "surf",
+     "seed-bomb"
+    ]
+   }
+  ],
+  "cost": 39
+ },
+ {
+  "score": 0.9316038481112103,
+  "team": [
+   {
+    "species": "garchomp",
+    "moves": [
+     "earthquake",
+     "dragon-claw",
+     "stone-edge",
+     "crunch"
+    ]
+   },
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "quick-attack",
+     "ice-punch",
+     "brick-break",
+     "night-slash"
+    ]
+   },
+   {
+    "species": "ivysaur",
+    "moves": [
+     "energy-ball",
+     "double-edge",
+     "seed-bomb",
+     "sludge-bomb"
+    ]
+   },
+   {
+    "species": "diglett",
+    "moves": [
+     "earthquake",
+     "fissure",
+     "rock-slide",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "bidoof",
+    "moves": [
+     "double-edge",
+     "ice-beam",
+     "aqua-tail",
+     "shadow-ball"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9307740800061647,
+  "team": [
+   {
+    "species": "starmie",
+    "moves": [
+     "psychic",
+     "ice-beam",
+     "surf",
+     "thunderbolt"
+    ]
+   },
+   {
+    "species": "swampert",
+    "moves": [
+     "earthquake",
+     "ice-beam",
+     "stone-edge",
+     "ice-punch"
+    ]
+   },
+   {
+    "species": "weavile",
+    "moves": [
+     "ice-punch",
+     "brick-break",
+     "night-slash",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "growlithe",
+    "moves": [
+     "flare-blitz",
+     "double-edge",
+     "crunch",
+     "rock-smash"
+    ]
+   },
+   {
+    "species": "nuzleaf",
+    "moves": [
+     "seed-bomb",
+     "brick-break",
+     "feint-attack",
+     "rock-slide"
+    ]
+   },
+   {
+    "species": "shedinja",
+    "moves": [
+     "shadow-claw",
+     "x-scissor",
+     "aerial-ace",
+     "secret-power"
+    ]
+   }
+  ],
+  "cost": 40
+ },
+ {
+  "score": 0.9044031047627229,
+  "team": [
+   {
+    "species": "ludicolo",
+    "moves": [
+     "energy-ball",
+     "ice-beam",
+     "surf",
+     "seed-bomb"
+    ]
+   },
+   {
+    "species": "skarmory",
+    "moves": [
+     "brave-bird",
+     "steel-wing",
+     "air-cutter",
+     "slash"
+    ]
+   },
+   {
+    "species": "sneasel",
+    "moves": [
+     "ice-punch",
+     "brick-break",
+     "punishment",
+     "aerial-ace"
+    ]
+   },
+   {
+    "species": "rotom",
+    "moves": [
+     "thunderbolt",
+     "shadow-ball",
+     "signal-beam",
+     "charge-beam"
+    ]
+   },
+   {
+    "species": "dugtrio",
+    "moves": [
+     "earthquake",
+     "stone-edge",
+     "fissure",
+     "shadow-claw"
+    ]
+   },
+   {
+    "species": "bellsprout",
+    "moves": [
+     "seed-bomb",
+     "sludge-bomb",
+     "energy-ball",
+     "acid"
+    ]
+   }
+  ],
+  "cost": 40
+ }
+]

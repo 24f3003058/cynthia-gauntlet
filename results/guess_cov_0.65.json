@@ -1,0 +1,214 @@
+{
+ "team": "submission/team.json",
+ "policy": "policy_build/policy.py",
+ "n": 200,
+ "seeds": "tune",
+ "fingerprint": "b4d230f7f2",
+ "summary": {
+  "per_opponent": {
+   "policy": {
+    "n": 200,
+    "wins": 80,
+    "win_rate": 0.4,
+    "ci95": [
+     0.3346046396837895,
+     0.46916456149987484
+    ],
+    "avg_win_turns": 17.8375,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 371.52960000094026
+   },
+   "si_aggressive": {
+    "n": 200,
+    "wins": 191,
+    "win_rate": 0.955,
+    "ci95": [
+     0.9167024063390322,
+     0.9761477282752958
+    ],
+    "avg_win_turns": 17.638743455497384,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 194.69550001667812
+   },
+   "si_patient": {
+    "n": 200,
+    "wins": 190,
+    "win_rate": 0.95,
+    "ci95": [
+     0.9104209437021562,
+     0.9726176509713551
+    ],
+    "avg_win_turns": 19.805263157894736,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 161.9148000027053
+   },
+   "si_altmoves": {
+    "n": 200,
+    "wins": 191,
+    "win_rate": 0.955,
+    "ci95": [
+     0.9167024063390322,
+     0.9761477282752958
+    ],
+    "avg_win_turns": 17.80628272251309,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 204.33849998516962
+   },
+   "si_altteam_a": {
+    "n": 200,
+    "wins": 111,
+    "win_rate": 0.555,
+    "ci95": [
+     0.4857317563236392,
+     0.6221951830253456
+    ],
+    "avg_win_turns": 17.756756756756758,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 219.649099977687
+   },
+   "si_altteam_b": {
+    "n": 200,
+    "wins": 125,
+    "win_rate": 0.625,
+    "ci95": [
+     0.5561417515728713,
+     0.6891467469475485
+    ],
+    "avg_win_turns": 13.896,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 290.3113999927882
+   },
+   "si_giratina": {
+    "n": 200,
+    "wins": 104,
+    "win_rate": 0.52,
+    "ci95": [
+     0.4510366005581654,
+     0.5882095592051018
+    ],
+    "avg_win_turns": 17.48076923076923,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 198.4359000052791
+   },
+   "offensive": {
+    "n": 200,
+    "wins": 187,
+    "win_rate": 0.935,
+    "ci95": [
+     0.8919799625008207,
+     0.9616240123502404
+    ],
+    "avg_win_turns": 17.406417112299465,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 198.0782999889925
+   },
+   "defensive": {
+    "n": 200,
+    "wins": 188,
+    "win_rate": 0.94,
+    "ci95": [
+     0.8980673646931491,
+     0.9653481500987285
+    ],
+    "avg_win_turns": 19.76063829787234,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 189.54749999102205
+   },
+   "wr_water": {
+    "n": 200,
+    "wins": 127,
+    "win_rate": 0.635,
+    "ci95": [
+     0.5663157405897017,
+     0.6985958378123518
+    ],
+    "avg_win_turns": 19.606299212598426,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 276.984199997969
+   },
+   "wr_dragons": {
+    "n": 200,
+    "wins": 196,
+    "win_rate": 0.98,
+    "ci95": [
+     0.9497121344948062,
+     0.9921956998236058
+    ],
+    "avg_win_turns": 10.076530612244898,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 204.10559998708777
+   },
+   "wr_special": {
+    "n": 200,
+    "wins": 79,
+    "win_rate": 0.395,
+    "ci95": [
+     0.3298398699878317,
+     0.4641177912550158
+    ],
+    "avg_win_turns": 15.455696202531646,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 311.4236000110395
+   },
+   "wr_steel": {
+    "n": 200,
+    "wins": 80,
+    "win_rate": 0.4,
+    "ci95": [
+     0.3346046396837895,
+     0.46916456149987484
+    ],
+    "avg_win_turns": 16.6625,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 224.6166999975685
+   },
+   "wr_legends": {
+    "n": 200,
+    "wins": 46,
+    "win_rate": 0.23,
+    "ci95": [
+     0.1770925624139232,
+     0.2930842807819702
+    ],
+    "avg_win_turns": 18.565217391304348,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 263.07509999605827
+   },
+   "wr_toxic": {
+    "n": 200,
+    "wins": 185,
+    "win_rate": 0.925,
+    "ci95": [
+     0.8799554020266798,
+     0.9540254929427476
+    ],
+    "avg_win_turns": 15.594594594594595,
+    "turn_limit": 0,
+    "fallbacks": {},
+    "max_policy_ms": 276.5528000018094
+   }
+  },
+  "mean_win_rate": 0.6933333333333334,
+  "mean_ci95": [
+   0.6796338820547845,
+   0.7070327846118822
+  ],
+  "worst": "wr_legends",
+  "avg_win_turns": 16.92980769230769,
+  "total_fallbacks": 0
+ }
+}

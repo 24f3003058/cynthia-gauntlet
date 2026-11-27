@@ -1,0 +1,58 @@
+{
+  "pokemon": [
+    {
+      "species": "weavile",
+      "moves": [
+        "ice-punch",
+        "night-slash",
+        "brick-break",
+        "aerial-ace"
+      ]
+    },
+    {
+      "species": "starmie",
+      "moves": [
+        "surf",
+        "thunderbolt",
+        "ice-beam",
+        "psychic"
+      ]
+    },
+    {
+      "species": "gengar",
+      "moves": [
+        "shadow-ball",
+        "thunderbolt",
+        "energy-ball",
+        "focus-blast"
+      ]
+    },
+    {
+      "species": "gyarados",
+      "moves": [
+        "waterfall",
+        "ice-fang",
+        "earthquake",
+        "bite"
+      ]
+    },
+    {
+      "species": "swinub",
+      "moves": [
+        "ice-shard",
+        "earthquake",
+        "ice-beam",
+        "take-down"
+      ]
+    },
+    {
+      "species": "ralts",
+      "moves": [
+        "shadow-sneak",
+        "psychic",
+        "thunderbolt",
+        "magical-leaf"
+      ]
+    }
+  ]
+}

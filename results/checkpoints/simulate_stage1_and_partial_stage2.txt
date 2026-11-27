@@ -1,0 +1,37 @@
+n=60  60.74 wt=13.91 slaking gyarados weavile mankey starly slugma
+n=60  50.74 wt=13.74 slaking snorlax starmie machop bidoof happiny
+n=60  33.33 wt=13.03 slaking snorlax hippowdon diglett spinarak shedinja
+n=60  50.93 wt=13.98 slaking snorlax starmie ledyba togepi combee
+n=60  55.00 wt=13.88 slaking snorlax starmie vulpix togepi sentret
+n=60  46.30 wt=14.05 slaking snorlax gliscor diglett wooper seedot
+n=60  52.59 wt=15.21 slaking lapras gliscor finneon makuhita seedot
+n=60  46.85 wt=13.60 slaking lapras torterra krabby makuhita seedot
+n=60  21.67 wt=13.10 slaking snorlax nidoking nidoran-m pichu wingull
+n=60  49.07 wt=13.58 slaking swampert lopunny shellos hoppip igglybuff
+n=60  61.85 wt=14.99 slaking starmie skuntank snover surskit cleffa
+n=60  30.93 wt=18.54 snorlax lapras gliscor donphan pichu sunkern
+n=60  50.74 wt=18.79 snorlax starmie vaporeon gliscor marill ralts
+n=60  39.63 wt=18.22 snorlax starmie vaporeon gliscor bidoof pichu
+n=60  37.41 wt=16.69 snorlax gallade hippowdon froslass lotad shedinja
+n=60  32.59 wt=17.28 snorlax starmie milotic murkrow bellsprout pichu
+n=60  55.37 wt=13.59 slaking gliscor grovyle monferno natu marill
+n=60  43.89 wt=18.28 staraptor starmie lapras scizor diglett ralts
+n=60  61.85 wt=16.74 starmie lapras gliscor alakazam starly makuhita
+n=60  60.56 wt=15.86 weavile lapras gliscor donphan slugma feebas
+n=60  36.11 wt=18.28 gyarados kangaskhan vaporeon weavile makuhita tyrogue
+n=60  45.19 wt=12.86 slaking porygon-z flareon diglett starly shinx
+n=60  37.78 wt=15.97 lapras torterra gallade froslass makuhita togepi
+n=60  32.22 wt=15.75 snorlax staraptor heracross starmie jigglypuff feebas
+n=60  16.85 wt=16.21 snorlax starmie magmortar snover diglett togepi
+n=60  44.63 wt=16.12 snorlax garchomp starmie snover bidoof sentret
+n=60  33.70 wt=16.07 snorlax garchomp starmie bellsprout spearow feebas
+n=60  35.19 wt=15.53 snorlax staraptor gallade froslass squirtle ralts
+n=60  44.26 wt=15.97 snorlax staraptor gallade froslass swinub shedinja
+n=60  34.81 wt=16.63 snorlax garchomp starmie seel bulbasaur starly
+n=200  62.78 wt=15.00 slaking starmie skuntank snover surskit cleffa
+n=200  63.83 wt=16.66 starmie lapras gliscor alakazam starly makuhita
+n=200  60.22 wt=13.73 slaking gyarados weavile mankey starly slugma
+n=200  61.00 wt=16.00 weavile lapras gliscor donphan slugma feebas
+n=200  54.33 wt=13.68 slaking gliscor grovyle monferno natu marill
+
+[killed]

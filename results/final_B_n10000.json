@@ -1,0 +1,213 @@
+{
+ "seed_base": 900000000,
+ "n": 10000,
+ "opponents": [
+  "policy",
+  "public",
+  "si_aggressive",
+  "si_patient",
+  "si_altmoves",
+  "si_altteam_a",
+  "si_altteam_b",
+  "si_giratina",
+  "offensive",
+  "defensive",
+  "wr_water",
+  "wr_dragons",
+  "wr_special",
+  "wr_steel",
+  "wr_toxic",
+  "wr_legends"
+ ],
+ "entries": [
+  [
+   "final",
+   "submission/team.json",
+   "submission/policy.py"
+  ]
+ ],
+ "per": {
+  "final": {
+   "policy": {
+    "win": 0.4088,
+    "ci": [
+     0.39920120933678993,
+     0.4184688345391546
+    ],
+    "avg_win_turns": 17.427103718199607,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 105.34319998987485
+   },
+   "public": {
+    "win": 0.9238,
+    "ci": [
+     0.9184354778193632,
+     0.9288390332044817
+    ],
+    "avg_win_turns": 17.743883957566574,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 95.7059000065783
+   },
+   "si_aggressive": {
+    "win": 0.9288,
+    "ci": [
+     0.9235933046467847,
+     0.9336773662522825
+    ],
+    "avg_win_turns": 17.598729543496987,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 110.70989999279846
+   },
+   "si_patient": {
+    "win": 0.9236,
+    "ci": [
+     0.918229304990654,
+     0.9286453596381821
+    ],
+    "avg_win_turns": 19.767431788653095,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 215.50230000866577
+   },
+   "si_altmoves": {
+    "win": 0.936,
+    "ci": [
+     0.9310334127079861,
+     0.9406317284114015
+    ],
+    "avg_win_turns": 17.85886752136752,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 115.98740000044927
+   },
+   "si_altteam_a": {
+    "win": 0.7001,
+    "ci": [
+     0.6910435622016025,
+     0.7090027560047951
+    ],
+    "avg_win_turns": 17.503070989858593,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 166.96120001142845
+   },
+   "si_altteam_b": {
+    "win": 0.7993,
+    "ci": [
+     0.7913354597532639,
+     0.807034670377545
+    ],
+    "avg_win_turns": 13.60240210183911,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 177.26480000419542
+   },
+   "si_giratina": {
+    "win": 0.512,
+    "ci": [
+     0.5022000948726412,
+     0.5217906888278924
+    ],
+    "avg_win_turns": 17.28046875,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 360.4899000056321
+   },
+   "offensive": {
+    "win": 0.9255,
+    "ci": [
+     0.9201883735758042,
+     0.9304848318056164
+    ],
+    "avg_win_turns": 17.486763911399244,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 173.59619999479037
+   },
+   "defensive": {
+    "win": 0.9021,
+    "ci": [
+     0.8961199442898148,
+     0.9077712328755653
+    ],
+    "avg_win_turns": 19.51413368806119,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 266.11169999523554
+   },
+   "wr_water": {
+    "win": 0.655,
+    "ci": [
+     0.6456248587884141,
+     0.6642560973434783
+    ],
+    "avg_win_turns": 19.25908396946565,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 603.387000010116
+   },
+   "wr_dragons": {
+    "win": 0.9925,
+    "ci": [
+     0.9906096209104819,
+     0.994012126798918
+    ],
+    "avg_win_turns": 10.126750629722922,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 294.1597000026377
+   },
+   "wr_special": {
+    "win": 0.4812,
+    "ci": [
+     0.47141602715826914,
+     0.49099841171089487
+    ],
+    "avg_win_turns": 15.483790523690773,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 400.68500000052154
+   },
+   "wr_steel": {
+    "win": 0.5247,
+    "ci": [
+     0.5149043549075994,
+     0.5344766748759989
+    ],
+    "avg_win_turns": 16.266819134743663,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 365.56869999913033
+   },
+   "wr_toxic": {
+    "win": 0.8854,
+    "ci": [
+     0.8790080896627511,
+     0.8914959135193864
+    ],
+    "avg_win_turns": 15.084368646939236,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 303.17050000303425
+   },
+   "wr_legends": {
+    "win": 0.2417,
+    "ci": [
+     0.23340919209649247,
+     0.25018918874952173
+    ],
+    "avg_win_turns": 18.50848158874638,
+    "fallbacks": 0,
+    "turn_limit": 0,
+    "max_ms": 916.3760999945225
+   }
+  }
+ },
+ "means": {
+  "final|ALL": 0.73378125
+ },
+ "diffs": {}
+}

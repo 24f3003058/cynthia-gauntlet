@@ -1,0 +1,81 @@
+start n=60: 63.61  n=200: 64.00  weavile starmie gengar gyarados swinub ralts
+it  0 n=60  62.64 vs  63.61  moves swinub  | n=200  62.83 vs  64.00 
+it  1 n=60  60.14 vs  63.61  swap swinub->poochyena
+it  2 n=60  32.36 vs  63.61  swap weavile->cradily
+it  3 n=60  51.11 vs  63.61  lead swinub
+it  4 n=60  63.06 vs  63.61  moves starmie  | n=200  62.50 vs  64.00 
+it  5 n=60  26.67 vs  63.61  swap gyarados->seedot
+it  6 n=60  46.53 vs  63.61  swap gyarados->xatu
+it  7 n=60  48.47 vs  63.61  swap starmie->scyther
+it  8 n=60  60.14 vs  63.61  swap swinub->sunkern
+it  9 n=60  63.47 vs  63.61  swap ralts->pichu  | n=200  63.29 vs  64.00 
+it 10 n=60  62.64 vs  63.61  moves swinub  | n=200  62.83 vs  64.00 
+it 11 n=60  63.89 vs  63.61  moves weavile  | n=200  63.75 vs  64.00 
+it 12 n=60  63.19 vs  63.61  swap ralts->feebas  | n=200  63.29 vs  64.00 
+it 13 n=60  46.53 vs  63.61  swap gyarados->xatu
+it 14 n=60  60.56 vs  63.61  swap swinub->slugma
+it 15 n=60  43.89 vs  63.61  swap starmie->yanmega
+it 16 n=60  60.28 vs  63.61  lead gengar
+it 17 n=60  31.53 vs  63.61  swap gengar->bidoof
+it 18 n=60  63.06 vs  63.61  swap ralts->sunkern  | n=200  63.04 vs  64.00 
+it 19 n=60  48.33 vs  63.61  swap gyarados->breloom
+it 20 n=60  60.28 vs  63.61  swap swinub->wooper
+it 21 n=60  45.28 vs  63.61  swap gengar->luxray
+it 22 n=60  35.28 vs  63.61  swap weavile->leafeon
+it 23 n=60  63.89 vs  63.61  swap ralts->azurill  | n=200  63.37 vs  64.00 
+it 24 n=60  37.08 vs  63.61  swap gengar->budew
+it 25 n=60  61.81 vs  63.61  swap swinub->zubat
+it 26 n=60  21.94 vs  63.61  swap starmie->chingling
+it 27 n=60  60.97 vs  63.61  swap swinub->togepi
+it 28 n=60  63.89 vs  63.61  moves weavile  | n=200  63.75 vs  64.00 
+it 29 n=60  59.31 vs  63.61  swap gyarados->crobat
+it 30 n=60  63.89 vs  63.61  moves weavile  | n=200  63.75 vs  64.00 
+it 31 n=60  21.67 vs  63.61  swap weavile->kabutops
+it 32 n=60  61.67 vs  63.61  swap gyarados->arcanine
+it 33 n=60  49.58 vs  63.61  lead ralts
+it 34 n=60  43.75 vs  63.61  swap gyarados->dusknoir
+it 35 n=60  60.97 vs  63.61  swap swinub->togepi
+it 36 n=60   8.33 vs  63.61  swap weavile->hoothoot
+it 37 n=60  55.97 vs  63.61  lead starmie
+it 38 n=60  18.06 vs  63.61  swap weavile->hitmontop
+it 39 n=60  42.36 vs  63.61  swap gengar->armaldo
+it 40 n=60  63.33 vs  63.61  moves ralts  | n=200  63.92 vs  64.00 
+it 41 n=60  36.11 vs  63.61  swap gengar->ledyba
+it 42 n=60  47.64 vs  63.61  swap starmie->mismagius
+it 43 n=60  60.14 vs  63.61  swap swinub->sunkern
+it 44 n=60  61.94 vs  63.61  swap swinub->makuhita
+it 45 n=60  60.14 vs  63.61  swap swinub->combee
+it 46 n=60  42.08 vs  63.61  swap gyarados->swalot
+it 47 n=60  36.53 vs  63.61  swap starmie->meganium
+it 48 n=60  46.25 vs  63.61  swap gengar->hariyama
+it 49 n=60  66.39 vs  63.61  moves gengar  | n=200  64.17 vs  64.00 ACCEPT
+it 50 n=60  65.56 vs  66.39  swap swinub->marill  | n=200  63.17 vs  64.17 
+it 51 n=60  49.31 vs  66.39  lead ralts
+it 52 n=60  44.44 vs  66.39  swap starmie->ninetales
+it 53 n=60  33.19 vs  66.39  swap gengar->taillow
+it 54 n=60  41.25 vs  66.39  swap gengar->cradily
+it 55 n=60  66.25 vs  66.39  swap ralts->feebas  | n=200  63.54 vs  64.17 
+it 56 n=60  56.39 vs  66.39  lead starmie
+it 57 n=60  14.58 vs  66.39  swap weavile->wooper
+it 58 n=60  65.42 vs  66.39  moves gyarados  | n=200  63.92 vs  64.17 
+it 59 n=60  45.56 vs  66.39  swap gengar->electrode
+it 60 n=60  41.67 vs  66.39  swap gengar->carnivine
+it 61 n=60  63.47 vs  66.39  swap swinub->togepi
+it 62 n=60  65.42 vs  66.39  moves gyarados  | n=200  63.92 vs  64.17 
+it 63 n=60  26.94 vs  66.39  swap weavile->grumpig
+it 64 n=60  25.28 vs  66.39  swap starmie->hoothoot
+it 65 n=60  65.83 vs  66.39  swap ralts->sunkern  | n=200  63.21 vs  64.17 
+it 66 n=60  65.00 vs  66.39  moves starmie
+it 67 n=60  39.17 vs  66.39  swap weavile->primeape
+it 68 n=60  31.53 vs  66.39  swap gengar->bidoof
+it 69 n=60  53.47 vs  66.39  swap gyarados->cherrim
+it 70 n=60  32.64 vs  66.39  swap starmie->vileplume
+it 71 n=60  66.11 vs  66.39  moves ralts  | n=200  64.00 vs  64.17 
+it 72 n=60  59.72 vs  66.39  swap gyarados->scizor
+it 73 n=60  66.25 vs  66.39  moves weavile  | n=200  64.00 vs  64.17 
+it 74 n=60  27.08 vs  66.39  swap starmie->ledyba
+it 75 n=60  63.33 vs  66.39  swap swinub->happiny
+it 76 n=60  40.56 vs  66.39  swap gengar->glalie
+it 77 n=60  49.31 vs  66.39  lead ralts
+it 78 n=60  65.42 vs  66.39  moves starmie  | n=200  62.67 vs  64.17 
+final n=200 64.17 [{"species": "weavile", "moves": ["ice-punch", "night-slash", "brick-break", "aerial-ace"]}, {"species": "starmie", "moves": ["surf", "thunderbolt", "ice-beam", "psychic"]}, {"species": "gengar", "moves": ["shadow-ball", "energy-ball", "focus-blast", "ice-punch"]}, {"species": "gyarados", "moves": ["waterfall", "ice-fang", "earthquake", "bite"]}, {"species": "swinub", "moves": ["ice-shard", "earthquake", "ice-beam", "take-down"]}, {"species": "ralts", "moves": ["shadow-sneak", "psychic", "thunderbolt", "magical-leaf"]}]

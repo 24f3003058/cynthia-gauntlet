@@ -1,0 +1,85 @@
+{
+ "lead_order": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "shuffle_lead": true,
+ "level": 6,
+ "style": "aggressive",
+ "search_depth": 0,
+ "node_budget": 500,
+ "time_budget_ms": 50.0,
+ "p_predict": 0.0,
+ "switch_threshold": 2.0,
+ "switch_cooldown": 3,
+ "danger_threshold": 0.6,
+ "weak_offense_threshold": 0.4,
+ "aggression": 1.0,
+ "status_weight": 1.0,
+ "priority_weight": 1.0,
+ "endgame_closer_weight": 1.0,
+ "closer_species": "garchomp",
+ "stall_penalty": 0.5,
+ "variant": "wr_steel",
+ "team": [
+  {
+   "species": "metagross",
+   "moves": [
+    "psychic",
+    "take-down",
+    "earthquake",
+    "zen-headbutt"
+   ]
+  },
+  {
+   "species": "scizor",
+   "moves": [
+    "metal-claw",
+    "u-turn",
+    "bug-bite",
+    "x-scissor"
+   ]
+  },
+  {
+   "species": "lucario",
+   "moves": [
+    "focus-blast",
+    "brick-break",
+    "iron-tail",
+    "dragon-pulse"
+   ]
+  },
+  {
+   "species": "machamp",
+   "moves": [
+    "stone-edge",
+    "brick-break",
+    "submission",
+    "rock-climb"
+   ]
+  },
+  {
+   "species": "heracross",
+   "moves": [
+    "megahorn",
+    "strength",
+    "take-down",
+    "bug-bite"
+   ]
+  },
+  {
+   "species": "infernape",
+   "moves": [
+    "fire-punch",
+    "flamethrower",
+    "earthquake",
+    "brick-break"
+   ]
+  }
+ ],
+ "_assumption": "WIDE stand-in, random moves"
+}
